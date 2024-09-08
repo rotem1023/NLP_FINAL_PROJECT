@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log \left(5 x+\frac{17}{2}\right)=0$
+Answer:
+$\left\{\left\{x\to -\frac{3}{2}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^5-8 x^4+2 x^3-9 x^2-x+5$ when divided by $-3 x^2-6 x+5$.
+Answer:
+$\frac{7 x^3}{3}-2 x^2+\frac{65 x}{9}-\frac{133}{9}$

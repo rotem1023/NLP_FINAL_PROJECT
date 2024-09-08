@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $10 x^4+x^3+7 x^2+10 x-5$ when divided by $5 x^3-x^2+6 x-8$.
+Answer:
+$2 x+\frac{3}{5}$

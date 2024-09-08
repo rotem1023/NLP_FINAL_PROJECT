@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $e^{-5 x-7}+\sin (7)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{5} (2 i \pi  c_1+\log (\csc (7))+i \pi -7)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

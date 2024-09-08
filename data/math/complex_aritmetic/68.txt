@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=6.2\, +3. i$ and $y=-7.+0.3 i$
+Answer:
+$-0.8+3.3 i$

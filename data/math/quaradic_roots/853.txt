@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{78 x^2}{7}-\frac{87 x}{7}-\frac{102}{7}$
+Answer:
+$x=\frac{1}{52} \left(-29-7 i \sqrt{55}\right)\lor x=\frac{1}{52} \left(-29+7 i \sqrt{55}\right)$

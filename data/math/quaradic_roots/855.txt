@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{38 x^2}{5}+\frac{38 x}{5}-\frac{22}{5}$
+Answer:
+$x=\frac{1}{38} \left(-19-3 \sqrt{133}\right)\lor x=\frac{1}{38} \left(3 \sqrt{133}-19\right)$

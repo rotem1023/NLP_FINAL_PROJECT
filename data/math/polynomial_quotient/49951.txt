@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-8 x^5-7 x^4+7 x^3+8 x^2+x-4$ when divided by $-2 x^4+4 x^3-5 x^2+6 x+3$.
+Answer:
+$4 x+\frac{23}{2}$

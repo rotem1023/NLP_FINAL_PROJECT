@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-12 x^2-\frac{43 x}{3}-\frac{10}{3}$
+Answer:
+$x=\frac{1}{72} \left(-43-\sqrt{409}\right)\lor x=\frac{1}{72} \left(\sqrt{409}-43\right)$

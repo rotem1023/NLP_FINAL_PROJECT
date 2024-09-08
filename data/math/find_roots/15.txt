@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{5 x+5} \cos ^{-1}(8-4 x)=0$
+Answer:
+$\left\{\{x\to -1\},\left\{x\to \frac{7}{4}\right\}\right\}$

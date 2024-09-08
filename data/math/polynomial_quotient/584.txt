@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^6-10 x^5+x^4-4 x^3+2 x^2+7 x+4$ when divided by $7-6 x$.
+Answer:
+$-\frac{5 x^5}{6}+\frac{25 x^4}{36}+\frac{139 x^3}{216}+\frac{1837 x^2}{1296}+\frac{10267 x}{7776}+\frac{17437}{46656}$

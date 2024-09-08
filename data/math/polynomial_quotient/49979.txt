@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $2 x^6+10 x^5-x^4-4 x^3+3 x^2+10 x+1$ when divided by $-9 x^3-2 x^2+10 x+5$.
+Answer:
+$-\frac{2 x^3}{9}-\frac{86 x^2}{81}+\frac{73 x}{729}-\frac{5780}{6561}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{1}{2}+\frac{7 i}{2}$ and $y=\frac{9}{2}$
+Answer:
+$4+\frac{7 i}{2}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^6-2 x^5-9 x^4+3 x^3-10 x^2-x-8$ when divided by $-8 x^5+3 x^4+4 x^3-2 x^2+2 x-2$.
+Answer:
+$\frac{1}{64}-\frac{5 x}{8}$

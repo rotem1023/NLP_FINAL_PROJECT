@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $8 x^2-6 x-7$
+Answer:
+$x=\frac{1}{8} \left(3-\sqrt{65}\right)\lor x=\frac{1}{8} \left(3+\sqrt{65}\right)$

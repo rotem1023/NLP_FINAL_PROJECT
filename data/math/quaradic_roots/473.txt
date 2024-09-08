@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $8 x^2+5 x+1$
+Answer:
+$x=\frac{1}{16} \left(-5-i \sqrt{7}\right)\lor x=\frac{1}{16} \left(-5+i \sqrt{7}\right)$

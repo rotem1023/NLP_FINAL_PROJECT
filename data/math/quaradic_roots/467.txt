@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\sqrt{3} x^2-4 \sqrt{3} x+5 \sqrt{3}$
+Answer:
+$x=2-i\lor x=2+i$

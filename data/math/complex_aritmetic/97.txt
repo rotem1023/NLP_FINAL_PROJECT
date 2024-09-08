@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{10+2 i}{\sqrt{3}}$ and $y=\frac{15+8 i}{\sqrt{3}}$
+Answer:
+$\frac{25+10 i}{\sqrt{3}}$

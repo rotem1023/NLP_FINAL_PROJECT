@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $8-14 x^2$
+Answer:
+$x=\frac{2}{\sqrt{7}}\lor x=-\frac{2}{\sqrt{7}}$

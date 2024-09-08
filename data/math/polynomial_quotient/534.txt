@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $2 x^2-5 x+9$ when divided by $10 x^2+7 x$.
+Answer:
+$\frac{1}{5}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^4+x^3+9 x^2+7 x-9$ when divided by $4 x+3$.
+Answer:
+$\frac{x^3}{4}+\frac{x^2}{16}+\frac{141 x}{64}+\frac{25}{256}$

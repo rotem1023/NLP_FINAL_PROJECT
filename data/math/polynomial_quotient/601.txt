@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-9 x^4-7 x^3+4 x^2-x+8$ when divided by $x-1$.
+Answer:
+$-9 x^3-16 x^2-12 x-13$

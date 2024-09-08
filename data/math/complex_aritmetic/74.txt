@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{29}{5}-\frac{23 i}{5}$ and $y=6-\frac{19 i}{5}$
+Answer:
+$\frac{1}{5}-\frac{42 i}{5}$

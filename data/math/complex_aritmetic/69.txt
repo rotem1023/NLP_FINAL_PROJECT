@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(-4-4 i) \sqrt{5}$ and $y=(1-2 i) \sqrt{5}$
+Answer:
+$(-3-6 i) \sqrt{5}$

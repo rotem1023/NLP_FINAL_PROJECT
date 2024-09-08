@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\frac{\log \left(\cos ^{-1}\left(4-8 x^3\right)\right)}{\log (2-9 x)}=0$
+Answer:
+$\left\{\left\{x\to \frac{1}{2} \sqrt[3]{4-\cos (1)}\right\},\left\{x\to \frac{1}{2} (-1)^{2/3} \sqrt[3]{4-\cos (1)}\right\},\left\{x\to -\frac{1}{2} \sqrt[3]{\cos (1)-4}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{10-7 i}{\sqrt{\pi }}$ and $y=-\frac{16}{\sqrt{\pi }}$
+Answer:
+$-\frac{6+7 i}{\sqrt{\pi }}$

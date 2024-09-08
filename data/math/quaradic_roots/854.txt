@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $14 x^2-14 x-7$
+Answer:
+$x=\frac{1}{2} \left(1-\sqrt{3}\right)\lor x=\frac{1}{2} \left(1+\sqrt{3}\right)$

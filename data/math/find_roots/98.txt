@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{-7 x-\frac{11}{2}}=0$
+Answer:
+$\left\{\left\{x\to -\frac{11}{14}\right\}\right\}$

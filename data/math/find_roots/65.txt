@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\cos ^{-1}\left(\frac{14}{3}-\frac{20 x}{3}\right)=0$
+Answer:
+$\left\{\left\{x\to \frac{11}{20}\right\}\right\}$

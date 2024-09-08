@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{5 x^5}{2}-\frac{9 x^4}{2}-\frac{5 x^3}{2}+8 x^2+5 x-\frac{3}{2}$ when divided by $-\frac{15 x^5}{2}-\frac{11 x^4}{2}+\frac{9 x^3}{2}-\frac{11 x^2}{2}+\frac{17 x}{2}-\frac{19}{2}$.
+Answer:
+$\frac{1}{3}$

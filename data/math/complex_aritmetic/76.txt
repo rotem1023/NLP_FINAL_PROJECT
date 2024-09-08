@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-2.4+9.2 i$ and $y=-7.8+3.5 i$
+Answer:
+$-10.2+12.7 i$

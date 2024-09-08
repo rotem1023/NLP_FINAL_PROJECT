@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $6 \sqrt{5}-3 \sqrt{5} x$
+Answer:
+$x=2$

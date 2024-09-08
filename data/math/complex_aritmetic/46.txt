@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{5+i}{\sqrt{2}}$ and $y=-\frac{7+5 i}{\sqrt{2}}$
+Answer:
+$(-6-3 i) \sqrt{2}$

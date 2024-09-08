@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-7 x^2-4 x-3$
+Answer:
+$x=\frac{1}{7} \left(-2-i \sqrt{17}\right)\lor x=\frac{1}{7} \left(-2+i \sqrt{17}\right)$

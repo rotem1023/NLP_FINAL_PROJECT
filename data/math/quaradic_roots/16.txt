@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-6 x^2-8 x$
+Answer:
+$x=-\frac{4}{3}\lor x=0$

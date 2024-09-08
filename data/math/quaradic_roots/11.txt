@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $4 \sqrt{5} x^2+5 \sqrt{5} x+2 \sqrt{5}$
+Answer:
+$x=\frac{1}{8} \left(-5-i \sqrt{7}\right)\lor x=\frac{1}{8} \left(-5+i \sqrt{7}\right)$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-2 x^4+9 x^3+9 x^2+4 x-1$ when divided by $2 x^4-3 x^3-x^2-x-3$.
+Answer:
+$-1$

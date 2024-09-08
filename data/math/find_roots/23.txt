@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\cos ^{-1}\left(9 x^3-3\right)=0$
+Answer:
+$\left\{\left\{x\to \left(-\frac{2}{3}\right)^{2/3}\right\},\left\{x\to \left(\frac{2}{3}\right)^{2/3}\right\},\left\{x\to -\sqrt[3]{-1} \left(\frac{2}{3}\right)^{2/3}\right\}\right\}$

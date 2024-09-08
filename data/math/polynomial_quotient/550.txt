@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-8 x^5-2 x^4+9 x^3+7 x^2-6 x-5$ when divided by $-2 x^2+x-9$.
+Answer:
+$4 x^3+3 x^2-21 x-\frac{55}{2}$

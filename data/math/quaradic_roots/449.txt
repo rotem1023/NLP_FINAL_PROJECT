@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-12 x^2-7 x-13$
+Answer:
+$x=\frac{1}{24} \left(-7-5 i \sqrt{23}\right)\lor x=\frac{1}{24} \left(-7+5 i \sqrt{23}\right)$

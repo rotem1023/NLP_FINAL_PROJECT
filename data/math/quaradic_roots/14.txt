@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{31 x^2}{3}-\frac{2 x}{3}+\frac{7}{3}$
+Answer:
+$x=\frac{1}{31} \left(1-6 i \sqrt{6}\right)\lor x=\frac{1}{31} \left(1+6 i \sqrt{6}\right)$

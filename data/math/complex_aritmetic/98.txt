@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{5+4 i}{\sqrt{3}}$ and $y=\frac{2-13 i}{\sqrt{3}}$
+Answer:
+$\frac{7-9 i}{\sqrt{3}}$

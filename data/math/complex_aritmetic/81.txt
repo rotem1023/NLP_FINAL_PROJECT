@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(10-10 i) \log (2)$ and $y=8 i \log (2)$
+Answer:
+$(10-2 i) \log (2)$

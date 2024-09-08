@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{26+i}{\pi }$ and $y=\frac{1+28 i}{\pi }$
+Answer:
+$-\frac{25-27 i}{\pi }$

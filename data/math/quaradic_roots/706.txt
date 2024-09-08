@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $6 x^2-5 x-4$
+Answer:
+$x=\frac{4}{3}\lor x=-\frac{1}{2}$

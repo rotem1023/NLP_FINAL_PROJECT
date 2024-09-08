@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sin ^{-1}(5 x+6)=0$
+Answer:
+$\left\{\left\{x\to -\frac{6}{5}\right\}\right\}$

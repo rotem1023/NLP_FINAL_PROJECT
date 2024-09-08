@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $10 \sqrt{2} x+9 \sqrt{2}$
+Answer:
+$x=-\frac{9}{10}$

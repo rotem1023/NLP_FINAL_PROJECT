@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $5 x^2-12 x$
+Answer:
+$x=0\lor x=\frac{12}{5}$

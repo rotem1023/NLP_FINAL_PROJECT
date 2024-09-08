@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{19-25 i}{\pi }$ and $y=-\frac{9}{\pi }$
+Answer:
+$-\frac{28-25 i}{\pi }$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^5-2 x^4-2 x^3+x^2-2 x-5$ when divided by $-9 x^4+3 x^3+5 x^2-2$.
+Answer:
+$\frac{7 x}{9}+\frac{13}{27}$

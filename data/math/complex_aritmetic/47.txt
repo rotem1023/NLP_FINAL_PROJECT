@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{11+11 i}{\sqrt{\pi }}$ and $y=\frac{10-9 i}{\sqrt{\pi }}$
+Answer:
+$-\frac{1+20 i}{\sqrt{\pi }}$

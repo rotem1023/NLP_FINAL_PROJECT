@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log \left(-5 x^2-3\right)=0$
+Answer:
+$\left\{\left\{x\to -\frac{2 i}{\sqrt{5}}\right\},\left\{x\to \frac{2 i}{\sqrt{5}}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{5+13 i}{\pi }$ and $y=\frac{3+10 i}{\pi }$
+Answer:
+$\frac{8+23 i}{\pi }$

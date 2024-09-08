@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-5 x^2+4 x-5$ when divided by $-4 x-3$.
+Answer:
+$\frac{5 x}{4}-\frac{31}{16}$

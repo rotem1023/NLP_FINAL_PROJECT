@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $8 \sqrt{3} x^2-3 \sqrt{3} x-5 \sqrt{3}$
+Answer:
+$x=-\frac{5}{8}\lor x=1$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^4+9 x^3+x^2-6 x-1$ when divided by $-x^2-8 x-8$.
+Answer:
+$-3 x^2+15 x-97$

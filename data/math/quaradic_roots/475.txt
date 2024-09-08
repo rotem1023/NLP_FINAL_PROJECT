@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-7 x^2+12 x+15$
+Answer:
+$x=\frac{1}{7} \left(6-\sqrt{141}\right)\lor x=\frac{1}{7} \left(6+\sqrt{141}\right)$

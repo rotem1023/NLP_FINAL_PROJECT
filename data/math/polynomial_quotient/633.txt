@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^4+9 x^3-2 x^2+9 x+10$ when divided by $x^2+6 x+2$.
+Answer:
+$3 x^2-9 x+46$

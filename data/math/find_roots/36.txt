@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{5 x+8}=0$
+Answer:
+$\left\{\left\{x\to -\frac{8}{5}\right\}\right\}$

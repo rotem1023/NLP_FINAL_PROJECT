@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-3 x-1$ when divided by $2 x-8$.
+Answer:
+$-\frac{3}{2}$

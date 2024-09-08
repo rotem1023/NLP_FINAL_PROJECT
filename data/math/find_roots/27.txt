@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{6-x^4}=0$
+Answer:
+$\left\{\left\{x\to -\sqrt[4]{6}\right\},\left\{x\to \sqrt[4]{6}\right\}\right\}$

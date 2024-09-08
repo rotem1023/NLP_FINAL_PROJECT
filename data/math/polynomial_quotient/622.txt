@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^4-3 x^3-2 x^2-6 x+3$ when divided by $-2 x^3-10 x^2+6 x-3$.
+Answer:
+$4-\frac{x}{2}$

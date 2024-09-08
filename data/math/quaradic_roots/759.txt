@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $11 x^2+3 x-13$
+Answer:
+$x=\frac{1}{22} \left(-3-\sqrt{581}\right)\lor x=\frac{1}{22} \left(\sqrt{581}-3\right)$

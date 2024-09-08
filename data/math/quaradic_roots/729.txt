@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-10 x^2-9 x+3$
+Answer:
+$x=\frac{1}{20} \left(-9-\sqrt{201}\right)\lor x=\frac{1}{20} \left(\sqrt{201}-9\right)$

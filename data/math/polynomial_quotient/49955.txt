@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-x^2+9 x-1$ when divided by $-6 x^2-4 x+3$.
+Answer:
+$\frac{1}{6}$

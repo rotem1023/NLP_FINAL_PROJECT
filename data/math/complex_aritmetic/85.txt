@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{1+4 i}{e}$ and $y=\frac{6+22 i}{e}$
+Answer:
+$\frac{7+26 i}{e}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5$ when divided by $-10$.
+Answer:
+$-\frac{1}{2}$

@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{74 x^2}{5}-15 x+\frac{48}{5}$
+Answer:
+$x=\frac{1}{148} \left(-75-\sqrt{19833}\right)\lor x=\frac{1}{148} \left(\sqrt{19833}-75\right)$

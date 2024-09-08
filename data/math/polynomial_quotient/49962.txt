@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^4+3 x^3+3 x^2-6 x-2$ when divided by $3 x^3-9 x^2-8 x+5$.
+Answer:
+$x+4$

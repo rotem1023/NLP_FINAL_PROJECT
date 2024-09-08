@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $2 x^4+7 x^3+10 x^2+\frac{11 x}{2}+\frac{5}{2}$ when divided by $\frac{11 x^2}{2}+x-\frac{7}{2}$.
+Answer:
+$\frac{4 x^2}{11}+\frac{146 x}{121}+\frac{2436}{1331}$

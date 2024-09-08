@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^4-5 x^3-3 x^2+2 x+7$ when divided by $-8$.
+Answer:
+$-\frac{3 x^4}{8}+\frac{5 x^3}{8}+\frac{3 x^2}{8}-\frac{x}{4}-\frac{7}{8}$

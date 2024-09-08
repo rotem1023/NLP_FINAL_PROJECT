@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{20 i}{\pi }$ and $y=-\frac{27-14 i}{\pi }$
+Answer:
+$-\frac{27-34 i}{\pi }$

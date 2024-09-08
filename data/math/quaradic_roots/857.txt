@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-3 x^2-9 x+5$
+Answer:
+$x=\frac{1}{6} \left(-9-\sqrt{141}\right)\lor x=\frac{1}{6} \left(\sqrt{141}-9\right)$

@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{-\frac{17 x}{2}-1}=0$
+Answer:
+$\left\{\left\{x\to -\frac{2}{17}\right\}\right\}$

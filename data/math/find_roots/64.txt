@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\frac{\sqrt[3]{\cos ^{-1}\left(-2 x-\frac{11}{2}\right)}}{\left(-\frac{x^4}{2}-7\right)^2}=0$
+Answer:
+$\left\{\left\{x\to -\frac{13}{4}\right\}\right\}$

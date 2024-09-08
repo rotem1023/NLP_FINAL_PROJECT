@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-x^5+2 x^4-7 x^3-7 x+4$ when divided by $-3 x^3-2 x^2-4 x-1$.
+Answer:
+$\frac{x^2}{3}-\frac{8 x}{9}+\frac{67}{27}$

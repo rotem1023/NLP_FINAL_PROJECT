@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(4-4 i) \sqrt{3}$ and $y=\frac{14+i}{\sqrt{3}}$
+Answer:
+$\frac{14+i}{\sqrt{3}}+(4-4 i) \sqrt{3}$

@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-5 x^2-7 x-12$
+Answer:
+$x=\frac{1}{10} \left(-7-i \sqrt{191}\right)\lor x=\frac{1}{10} \left(-7+i \sqrt{191}\right)$

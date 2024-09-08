@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $7 x^2+8 x-14$
+Answer:
+$x=\frac{1}{7} \left(-4-\sqrt{114}\right)\lor x=\frac{1}{7} \left(\sqrt{114}-4\right)$

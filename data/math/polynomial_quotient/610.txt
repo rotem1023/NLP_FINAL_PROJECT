@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-8 x^3-\frac{8 x^2}{3}+\frac{5 x}{3}-7$ when divided by $8 x^3+2 x^2+3 x-\frac{19}{3}$.
+Answer:
+$-1$

@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-10 x^2-3 x-3$
+Answer:
+$x=\frac{1}{20} \left(-3-i \sqrt{111}\right)\lor x=\frac{1}{20} \left(-3+i \sqrt{111}\right)$

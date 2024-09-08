@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-4 \sqrt{3} x^2-\frac{x}{\sqrt{3}}+\frac{16}{\sqrt{3}}$
+Answer:
+$x=\frac{1}{8} \left(\frac{\sqrt{769}}{3}-\frac{1}{3}\right)\lor x=\frac{1}{8} \left(-\frac{1}{3}-\frac{\sqrt{769}}{3}\right)$

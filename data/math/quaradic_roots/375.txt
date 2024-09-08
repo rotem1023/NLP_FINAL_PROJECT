@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-9 x^2+7 x-12$
+Answer:
+$x=\frac{1}{18} \left(7-i \sqrt{383}\right)\lor x=\frac{1}{18} \left(7+i \sqrt{383}\right)$

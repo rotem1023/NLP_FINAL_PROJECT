@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{28-16 i}{\pi }$ and $y=\frac{11+31 i}{\pi }$
+Answer:
+$-\frac{17-47 i}{\pi }$

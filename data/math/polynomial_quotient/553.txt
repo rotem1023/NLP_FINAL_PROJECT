@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4 x^4-x^3-4 x^2+6 x-5$ when divided by $3 x^3+x^2-5 x-1$.
+Answer:
+$\frac{1}{9}-\frac{4 x}{3}$

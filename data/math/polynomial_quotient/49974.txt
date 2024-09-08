@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^5-\frac{14 x^4}{5}+\frac{47 x^3}{5}+\frac{27 x^2}{5}-\frac{3 x}{5}-\frac{4}{5}$ when divided by $\frac{11}{5}$.
+Answer:
+$\frac{25 x^5}{11}-\frac{14 x^4}{11}+\frac{47 x^3}{11}+\frac{27 x^2}{11}-\frac{3 x}{11}-\frac{4}{11}$

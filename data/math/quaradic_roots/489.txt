@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-7 \sqrt{2} x^2+3 \sqrt{2} x+10 \sqrt{2}$
+Answer:
+$x=\frac{10}{7}\lor x=-1$

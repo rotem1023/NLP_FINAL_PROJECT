@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{11}{2}-\frac{39 i}{4}$ and $y=\frac{13}{2}+8 i$
+Answer:
+$1-\frac{7 i}{4}$

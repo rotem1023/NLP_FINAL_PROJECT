@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4 x^5-7 x^4-7 x^3+4 x^2+5$ when divided by $3 x^4-2 x^3+10 x^2-2 x+4$.
+Answer:
+$\frac{4 x}{3}-\frac{13}{9}$

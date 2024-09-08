@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{25 x^2}{2}+\frac{29 x}{2}+11$
+Answer:
+$x=\frac{1}{50} \left(-29-3 i \sqrt{151}\right)\lor x=\frac{1}{50} \left(-29+3 i \sqrt{151}\right)$

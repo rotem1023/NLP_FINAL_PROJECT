@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $7 \sqrt{3} x^2-6 \sqrt{3} x+3 \sqrt{3}$
+Answer:
+$x=\frac{1}{7} \left(3-2 i \sqrt{3}\right)\lor x=\frac{1}{7} \left(3+2 i \sqrt{3}\right)$

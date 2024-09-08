@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^2-2 x-\frac{39}{5}$ when divided by $\frac{33 x^2}{5}+\frac{18 x}{5}+\frac{16}{5}$.
+Answer:
+$-\frac{10}{11}$

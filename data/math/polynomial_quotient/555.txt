@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-9 x^5-6 x^4-\frac{15 x^3}{2}-\frac{7 x^2}{2}-\frac{19 x}{2}+7$ when divided by $\frac{5 x}{2}$.
+Answer:
+$-\frac{18 x^4}{5}-\frac{12 x^3}{5}-3 x^2-\frac{7 x}{5}-\frac{19}{5}$

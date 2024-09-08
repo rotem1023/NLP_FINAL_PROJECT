@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2 x^2-8 x-14$
+Answer:
+$x=2-\sqrt{11}\lor x=2+\sqrt{11}$

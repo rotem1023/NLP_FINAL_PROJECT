@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^6-5 x^5-6 x^3-4 x+7$ when divided by $5 x^4-8 x^3-8 x^2+x-5$.
+Answer:
+$\frac{x^2}{5}-\frac{17 x}{25}-\frac{96}{125}$

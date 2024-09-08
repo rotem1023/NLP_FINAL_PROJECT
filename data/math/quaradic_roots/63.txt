@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{23 x^2}{4}+x+\frac{9}{2}$
+Answer:
+$x=\frac{1}{23} \left(-2-i \sqrt{410}\right)\lor x=\frac{1}{23} \left(-2+i \sqrt{410}\right)$

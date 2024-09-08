@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tan \left(6 x^2+3\right)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$-\frac{\sqrt{\pi  c_1-3}}{\sqrt{6}}\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{\sqrt{\pi  c_1-3}}{\sqrt{6}}\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

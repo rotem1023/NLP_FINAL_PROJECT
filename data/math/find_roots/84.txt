@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\frac{\sqrt{-3 x-8}}{\sqrt[3]{8-5 x^5}}=0$
+Answer:
+$\left\{\left\{x\to -\frac{8}{3}\right\}\right\}$

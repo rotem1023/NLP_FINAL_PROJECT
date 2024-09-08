@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\tan (2 x+1)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{2} (\pi  c_1-1)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

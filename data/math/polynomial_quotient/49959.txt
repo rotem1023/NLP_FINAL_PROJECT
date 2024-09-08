@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-9 x^4-10 x^3-10 x^2+5 x+3$ when divided by $6-2 x$.
+Answer:
+$\frac{9 x^3}{2}+\frac{37 x^2}{2}+\frac{121 x}{2}+179$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $8 x^2+8 x$ when divided by $7$.
+Answer:
+$\frac{8 x^2}{7}+\frac{8 x}{7}$

@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{5-x} \sqrt[9]{8 x-3}=0$
+Answer:
+$\left\{\left\{x\to \frac{3}{8}\right\},\{x\to 5\}\right\}$

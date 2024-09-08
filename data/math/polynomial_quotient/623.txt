@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^5-6 x^4+2 x^2-x$ when divided by $-x^4-6 x^3+6 x^2-10 x-3$.
+Answer:
+$6 x-30$

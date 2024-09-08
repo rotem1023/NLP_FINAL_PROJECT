@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2 x^2-13 x+10$
+Answer:
+$x=\frac{1}{4} \left(13-\sqrt{89}\right)\lor x=\frac{1}{4} \left(13+\sqrt{89}\right)$

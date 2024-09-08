@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=i \pi$ and $y=(3+i) \pi$
+Answer:
+$(3+2 i) \pi$

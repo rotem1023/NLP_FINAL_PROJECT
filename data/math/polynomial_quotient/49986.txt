@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^6+6 x^5-5 x^4+6 x^3+x^2+9 x+8$ when divided by $-5 x^5+6 x^4-2 x^3-8 x^2-6 x-2$.
+Answer:
+$\frac{7 x}{5}+\frac{12}{25}$

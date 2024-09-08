@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\tan ^{-1}\left(\frac{1}{2}\right) \cot (4-5 x)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{5} \left(\pi  c_1+\frac{\pi }{2}+4\right)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

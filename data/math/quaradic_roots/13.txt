@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-4 x^2+7 x+7$
+Answer:
+$x=\frac{1}{8} \left(7-\sqrt{161}\right)\lor x=\frac{1}{8} \left(7+\sqrt{161}\right)$

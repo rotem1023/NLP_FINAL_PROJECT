@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{57}{7}-\frac{22 i}{7}$ and $y=\frac{17}{7}+\frac{62 i}{7}$
+Answer:
+$\frac{74}{7}+\frac{40 i}{7}$

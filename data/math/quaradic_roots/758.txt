@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $12 x^2-7 x+1$
+Answer:
+$x=\frac{1}{4}\lor x=\frac{1}{3}$

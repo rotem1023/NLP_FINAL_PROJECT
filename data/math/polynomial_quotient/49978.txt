@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $9 x^6-9 x^5+9 x^3+8 x^2+4 x-2$ when divided by $-4 x^4-3 x^3+x^2+6 x-2$.
+Answer:
+$-\frac{9 x^2}{4}+\frac{63 x}{16}-\frac{225}{64}$

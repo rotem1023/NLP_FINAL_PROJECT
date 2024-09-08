@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $8 \sqrt{3} x+4 \sqrt{3}$
+Answer:
+$x=-\frac{1}{2}$

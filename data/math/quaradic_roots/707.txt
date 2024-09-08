@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{9 x^2}{2}-\frac{15 x}{2}-8$
+Answer:
+$x=\frac{1}{6} \left(-5-i \sqrt{39}\right)\lor x=\frac{1}{6} \left(-5+i \sqrt{39}\right)$

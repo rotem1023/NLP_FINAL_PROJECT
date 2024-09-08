@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{10 x^2}{3}+\frac{20 x}{3}+\frac{34}{3}$
+Answer:
+$x=\frac{1}{5} \left(5-\sqrt{110}\right)\lor x=\frac{1}{5} \left(5+\sqrt{110}\right)$

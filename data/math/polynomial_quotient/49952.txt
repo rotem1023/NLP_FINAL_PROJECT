@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^4-5 x^3-6 x^2-3$ when divided by $8 x+4$.
+Answer:
+$-\frac{7 x^3}{8}-\frac{3 x^2}{16}-\frac{21 x}{32}+\frac{21}{64}$

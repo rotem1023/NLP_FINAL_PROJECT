@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $5 x^2-4 x-11$
+Answer:
+$x=\frac{1}{5} \left(2-\sqrt{59}\right)\lor x=\frac{1}{5} \left(2+\sqrt{59}\right)$

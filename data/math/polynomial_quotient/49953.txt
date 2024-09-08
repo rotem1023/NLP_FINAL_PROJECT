@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $2 x^5+\frac{37 x^4}{5}+\frac{46 x^3}{5}-\frac{9 x^2}{5}-\frac{13 x}{5}-\frac{6}{5}$ when divided by $\frac{7 x^2}{5}+\frac{29 x}{5}+\frac{19}{5}$.
+Answer:
+$\frac{10 x^3}{7}-\frac{31 x^2}{49}+\frac{1823 x}{343}-\frac{51831}{2401}$

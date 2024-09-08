@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(-1-9 i) \log (2)$ and $y=(-14-4 i) \log (2)$
+Answer:
+$(-15-13 i) \log (2)$

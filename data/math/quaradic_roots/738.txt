@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $14 x^2+12 x-2$
+Answer:
+$x=\frac{1}{7}\lor x=-1$

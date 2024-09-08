@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2 \sqrt{3} x^2-\frac{11 x}{\sqrt{3}}-\sqrt{3}$
+Answer:
+$x=\frac{\frac{11}{\sqrt{3}}-\sqrt{\frac{193}{3}}}{4 \sqrt{3}}\lor x=\frac{\frac{11}{\sqrt{3}}+\sqrt{\frac{193}{3}}}{4 \sqrt{3}}$

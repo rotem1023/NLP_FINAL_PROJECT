@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-2 \sqrt{3} x^2-4 \sqrt{3} x+7 \sqrt{3}$
+Answer:
+$x=\frac{1}{2} \left(-2-3 \sqrt{2}\right)\lor x=\frac{1}{2} \left(3 \sqrt{2}-2\right)$

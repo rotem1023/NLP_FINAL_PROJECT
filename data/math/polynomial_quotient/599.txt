@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^3+3 x^2-8 x-3$ when divided by $9 x-9$.
+Answer:
+$\frac{5 x^2}{9}+\frac{8 x}{9}$

@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log \left(4-2 x^2\right) \sqrt[3]{\log (5 x-3)}=0$
+Answer:
+$\left\{\left\{x\to \frac{4}{5}\right\},\left\{x\to \sqrt{\frac{3}{2}}\right\}\right\}$

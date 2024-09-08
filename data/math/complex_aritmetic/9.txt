@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=3 i \pi$ and $y=(-2-i) \pi$
+Answer:
+$(-2+2 i) \pi$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4 x^6+3 x^5-10 x^4-9 x^3+4 x^2+2 x-1$ when divided by $-x^5-7 x^4+9 x^3+3 x^2+x+1$.
+Answer:
+$4 x-31$

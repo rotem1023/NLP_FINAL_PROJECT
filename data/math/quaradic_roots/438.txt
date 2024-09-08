@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-x^2+4 x-13$
+Answer:
+$x=2-3 i\lor x=2+3 i$

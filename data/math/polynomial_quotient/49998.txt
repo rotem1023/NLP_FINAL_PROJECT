@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-3 x^2+x-3$ when divided by $-3$.
+Answer:
+$x^2-\frac{x}{3}+1$

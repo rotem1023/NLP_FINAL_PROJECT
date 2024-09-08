@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $9 x^6-x^5+9 x^4+6 x^3-6 x^2-4 x-7$ when divided by $3 x^2-2 x-10$.
+Answer:
+$3 x^4+\frac{5 x^3}{3}+\frac{127 x^2}{9}+\frac{458 x}{27}+\frac{4564}{81}$

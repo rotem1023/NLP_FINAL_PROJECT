@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{9 x^2}{\sqrt{2}}-\frac{11 x}{\sqrt{2}}+\frac{7}{\sqrt{2}}$
+Answer:
+$x=\frac{1}{18} \left(11-i \sqrt{131}\right)\lor x=\frac{1}{18} \left(11+i \sqrt{131}\right)$

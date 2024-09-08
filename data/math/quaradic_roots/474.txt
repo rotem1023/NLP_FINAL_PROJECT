@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $10 x+4$
+Answer:
+$x=-\frac{2}{5}$

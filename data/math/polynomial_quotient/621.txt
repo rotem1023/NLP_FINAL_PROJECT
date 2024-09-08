@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-8 x^6+x^5-9 x^4-10 x^3-4 x^2+2 x+8$ when divided by $8 x^5-4 x^4+8 x^3-10 x^2-4 x-4$.
+Answer:
+$-x-\frac{3}{8}$

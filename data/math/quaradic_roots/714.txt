@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $6 x^2-3 x-1$
+Answer:
+$x=\frac{1}{12} \left(3-\sqrt{33}\right)\lor x=\frac{1}{12} \left(3+\sqrt{33}\right)$

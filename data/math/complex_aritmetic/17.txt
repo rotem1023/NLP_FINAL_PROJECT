@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{10+8 i}{\sqrt{\pi }}$ and $y=\frac{2+13 i}{\sqrt{\pi }}$
+Answer:
+$-\frac{8-5 i}{\sqrt{\pi }}$

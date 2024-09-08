@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\cosh ^{-1}\left(-\frac{39 x}{5}-7\right)=0$
+Answer:
+$\left\{\left\{x\to -\frac{40}{39}\right\}\right\}$

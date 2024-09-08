@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-x^2+7 x-2$ when divided by $5 x+2$.
+Answer:
+$\frac{37}{25}-\frac{x}{5}$

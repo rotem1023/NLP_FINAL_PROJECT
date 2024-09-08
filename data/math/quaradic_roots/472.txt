@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $9 x^2+14 x-1$
+Answer:
+$x=\frac{1}{9} \left(-7-\sqrt{58}\right)\lor x=\frac{1}{9} \left(\sqrt{58}-7\right)$

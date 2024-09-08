@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-3 x-1$ when divided by $-3$.
+Answer:
+$x+\frac{1}{3}$

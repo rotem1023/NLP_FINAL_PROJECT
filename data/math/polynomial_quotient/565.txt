@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7$ when divided by $-8$.
+Answer:
+$\frac{7}{8}$

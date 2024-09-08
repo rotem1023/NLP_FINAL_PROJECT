@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $5 x^2-14 x+12$
+Answer:
+$x=\frac{1}{5} \left(7-i \sqrt{11}\right)\lor x=\frac{1}{5} \left(7+i \sqrt{11}\right)$

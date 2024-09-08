@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{7 x^6}{5}+\frac{41 x^5}{5}+2 x^4-\frac{13 x^3}{5}-\frac{37 x^2}{5}-\frac{9 x}{5}-\frac{44}{5}$ when divided by $-\frac{7 x^4}{5}-\frac{46 x^3}{5}-\frac{9 x^2}{5}+\frac{38 x}{5}-\frac{18}{5}$.
+Answer:
+$x^2-\frac{87 x}{7}+\frac{3869}{49}$

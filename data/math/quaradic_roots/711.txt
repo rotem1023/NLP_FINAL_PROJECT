@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{92 x^2}{7}+\frac{65 x}{7}-\frac{19}{7}$
+Answer:
+$x=\frac{1}{184} \left(-65-\sqrt{11217}\right)\lor x=\frac{1}{184} \left(\sqrt{11217}-65\right)$

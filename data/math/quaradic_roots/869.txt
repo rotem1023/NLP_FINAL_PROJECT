@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-6 x^2+13 x-10$
+Answer:
+$x=\frac{1}{12} \left(13-i \sqrt{71}\right)\lor x=\frac{1}{12} \left(13+i \sqrt{71}\right)$

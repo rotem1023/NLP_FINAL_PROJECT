@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\sqrt{5} x^2-4 \sqrt{5} x+6 \sqrt{5}$
+Answer:
+$x=2-i \sqrt{2}\lor x=2+i \sqrt{2}$

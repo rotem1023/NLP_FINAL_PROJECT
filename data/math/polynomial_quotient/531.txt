@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^6+9 x^5+x^4+5 x^3+8 x^2-7 x-10$ when divided by $4 x^5+5 x^4-2 x^3-5 x^2+3 x+6$.
+Answer:
+$\frac{x}{4}+\frac{31}{16}$

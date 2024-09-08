@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-7-7 i$ and $y=2-5 i$
+Answer:
+$-5-12 i$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{13-7 i}{\sqrt{3}}$ and $y=\frac{13-13 i}{\sqrt{3}}$
+Answer:
+$-2 i \sqrt{3}$

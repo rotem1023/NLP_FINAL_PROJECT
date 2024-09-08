@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log \left(-x^3-4\right)=0$
+Answer:
+$\left\{\left\{x\to \sqrt[3]{-5}\right\},\left\{x\to -\sqrt[3]{-5} \sqrt[3]{-1}\right\},\left\{x\to \sqrt[3]{-5} (-1)^{2/3}\right\}\right\}$

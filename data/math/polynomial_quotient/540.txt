@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^4-8 x^3+7 x^2-6 x-9$ when divided by $-10 x^3-10 x^2-9 x-8$.
+Answer:
+$\frac{13}{10}-\frac{x}{2}$

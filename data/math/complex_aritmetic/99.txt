@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{3-6 i}{\pi }$ and $y=\frac{25+24 i}{\pi }$
+Answer:
+$\frac{28+18 i}{\pi }$

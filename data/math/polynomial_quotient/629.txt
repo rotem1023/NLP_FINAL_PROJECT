@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4 x^5-9 x^4+7 x^3+\frac{11 x^2}{2}+\frac{17}{2}$ when divided by $7 x^4-7 x^3-3 x^2-3 x-7$.
+Answer:
+$-\frac{4 x}{7}-\frac{13}{7}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-8+\frac{27 i}{5}$ and $y=-\frac{33}{5}+\frac{29 i}{5}$
+Answer:
+$-\frac{73}{5}+\frac{56 i}{5}$

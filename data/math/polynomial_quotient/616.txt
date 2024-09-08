@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4 x^4+10 x^3+2 x^2+8 x-9$ when divided by $3 x-3$.
+Answer:
+$\frac{4 x^3}{3}+\frac{14 x^2}{3}+\frac{16 x}{3}+8$

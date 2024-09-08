@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^5-10 x^4+9 x^3-3 x^2-4 x-5$ when divided by $6 x+8$.
+Answer:
+$\frac{5 x^4}{6}-\frac{25 x^3}{9}+\frac{281 x^2}{54}-\frac{1205 x}{162}+\frac{2248}{243}$

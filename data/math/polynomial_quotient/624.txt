@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-x^4-4 x^3+3 x^2+7 x+8$ when divided by $-8 x^4-4 x^3+4 x^2-x-6$.
+Answer:
+$\frac{1}{8}$

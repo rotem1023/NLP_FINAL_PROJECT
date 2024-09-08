@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=i \pi$ and $y=(1+i) \pi$
+Answer:
+$(1+2 i) \pi$

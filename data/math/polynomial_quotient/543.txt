@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $6 x^6-5 x^5-4 x^4+2 x^3+5$ when divided by $-4 x^3-x^2-7$.
+Answer:
+$-\frac{3 x^3}{2}+\frac{13 x^2}{8}+\frac{19 x}{32}+\frac{253}{128}$

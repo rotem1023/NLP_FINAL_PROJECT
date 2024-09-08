@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4 x^6-10 x^5-4 x^4+7 x^3+3 x$ when divided by $-8 x^3+6 x^2+7 x+7$.
+Answer:
+$\frac{x^3}{2}+\frac{13 x^2}{8}+\frac{69 x}{32}+\frac{333}{128}$

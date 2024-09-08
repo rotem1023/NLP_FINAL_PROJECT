@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{13 x^6}{2}+9 x^5+\frac{7 x^4}{2}+10 x^3+\frac{7 x^2}{2}+\frac{19 x}{2}+\frac{13}{2}$ when divided by $3 x^2+\frac{5 x}{2}+2$.
+Answer:
+$-\frac{13 x^4}{6}+\frac{173 x^3}{36}-\frac{301 x^2}{216}+\frac{1673 x}{1296}+\frac{7931}{7776}$

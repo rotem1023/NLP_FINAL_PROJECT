@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-x^2+4 x-\frac{7}{2}$
+Answer:
+$x=\frac{1}{2} \left(4-\sqrt{2}\right)\lor x=\frac{1}{2} \left(4+\sqrt{2}\right)$

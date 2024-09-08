@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^4-6 x^3+6 x^2+2 x-3$ when divided by $-1$.
+Answer:
+$-x^4+6 x^3-6 x^2-2 x+3$

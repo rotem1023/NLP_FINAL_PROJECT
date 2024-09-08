@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-5 x^2+3 x+2$
+Answer:
+$x=-\frac{2}{5}\lor x=1$

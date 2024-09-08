@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(-3+2 i) e$ and $y=(-1+4 i) e$
+Answer:
+$(-4+6 i) e$

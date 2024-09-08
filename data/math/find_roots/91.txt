@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log \left(\cos \left(\frac{18}{5}-2 x\right)\right)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{10} (10 \pi  c_1+18)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

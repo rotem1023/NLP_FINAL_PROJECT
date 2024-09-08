@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2 x^2+13 x-14$
+Answer:
+$x=\frac{1}{4} \left(-13-\sqrt{281}\right)\lor x=\frac{1}{4} \left(\sqrt{281}-13\right)$

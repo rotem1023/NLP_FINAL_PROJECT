@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $6 x^5+3 x^4+9 x^3-7 x^2-x+7$ when divided by $-8 x^5-7 x^4+6 x^2-6 x-7$.
+Answer:
+$-\frac{3}{4}$

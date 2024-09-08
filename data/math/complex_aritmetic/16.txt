@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{13-30 i}{\pi }$ and $y=-\frac{25+14 i}{\pi }$
+Answer:
+$-\frac{12+44 i}{\pi }$

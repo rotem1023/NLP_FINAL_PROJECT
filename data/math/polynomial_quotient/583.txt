@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4 x^5-5 x^3-9 x^2-9 x+4$ when divided by $-5 x^4+3 x^3-2 x^2-6 x+4$.
+Answer:
+$-\frac{4 x}{5}-\frac{12}{25}$

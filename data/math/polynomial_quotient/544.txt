@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^5+\frac{13 x^4}{2}-\frac{11 x^3}{2}+\frac{3 x^2}{2}+8 x+\frac{19}{2}$ when divided by $\frac{9 x^3}{2}-\frac{15 x^2}{2}+\frac{3 x}{2}-4$.
+Answer:
+$\frac{2 x^2}{9}+\frac{49 x}{27}+\frac{140}{81}$

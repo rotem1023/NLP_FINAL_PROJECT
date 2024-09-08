@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $10 x^2-9 x-11$
+Answer:
+$x=\frac{1}{20} \left(9-\sqrt{521}\right)\lor x=\frac{1}{20} \left(9+\sqrt{521}\right)$

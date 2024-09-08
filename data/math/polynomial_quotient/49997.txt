@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{32 x^5}{5}-\frac{x^4}{5}-\frac{34 x^3}{5}+\frac{7 x^2}{5}-\frac{38 x}{5}-\frac{47}{5}$ when divided by $-\frac{24 x^4}{5}-\frac{23 x^3}{5}-\frac{46 x^2}{5}-6 x+\frac{22}{5}$.
+Answer:
+$\frac{4 x}{3}-\frac{89}{72}$

@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $10 x^2+2 x-3$
+Answer:
+$x=\frac{1}{10} \left(-1-\sqrt{31}\right)\lor x=\frac{1}{10} \left(\sqrt{31}-1\right)$

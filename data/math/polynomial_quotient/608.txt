@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^4+x^3+7 x^2+9 x-7$ when divided by $10$.
+Answer:
+$-\frac{7 x^4}{10}+\frac{x^3}{10}+\frac{7 x^2}{10}+\frac{9 x}{10}-\frac{7}{10}$

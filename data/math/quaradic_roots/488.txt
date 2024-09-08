@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-2 x^2+3 x-1$
+Answer:
+$x=\frac{1}{2}\lor x=1$

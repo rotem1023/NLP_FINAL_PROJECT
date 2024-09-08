@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{\frac{3 x^3}{5}+\frac{38}{5}} \log \left(6 x^4+\frac{19}{5}\right)=0$
+Answer:
+$\left\{\left\{x\to \sqrt[3]{-\frac{38}{3}}\right\},\left\{x\to -\sqrt[4]{-\frac{7}{15}}\right\},\left\{x\to -i \sqrt[4]{-\frac{7}{15}}\right\},\left\{x\to i \sqrt[4]{-\frac{7}{15}}\right\},\left\{x\to \sqrt[4]{-\frac{7}{15}}\right\},\left\{x\to -\sqrt[3]{\frac{38}{3}}\right\},\left\{x\to -(-1)^{2/3} \sqrt[3]{\frac{38}{3}}\right\}\right\}$

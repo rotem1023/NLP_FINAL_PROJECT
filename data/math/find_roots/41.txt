@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\sin \left(\frac{5 x}{2}+\frac{15}{2}\right)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{5} (4 \pi  c_1-15)\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{1}{5} (2 (2 \pi  c_1+\pi )-15)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{19 x^4}{2}-\frac{7 x^3}{2}-3 x^2-\frac{7 x}{2}+\frac{17}{2}$ when divided by $-\frac{9 x^3}{2}+7 x^2-\frac{7 x}{2}+8$.
+Answer:
+$\frac{19 x}{9}+\frac{329}{81}$

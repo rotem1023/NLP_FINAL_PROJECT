@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(-11+9 i) \log (2)$ and $y=6 \log (2)$
+Answer:
+$(-5+9 i) \log (2)$

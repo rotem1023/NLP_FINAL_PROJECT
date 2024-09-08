@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-5 x^4+3 x^3+4 x^2-9 x-9$ when divided by $-6 x-6$.
+Answer:
+$\frac{5 x^3}{6}-\frac{4 x^2}{3}+\frac{2 x}{3}+\frac{5}{6}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $\frac{4 x^6}{3}+\frac{26 x^5}{3}+\frac{29 x^4}{3}-\frac{13 x^3}{3}-\frac{x^2}{3}-\frac{8 x}{3}-\frac{20}{3}$ when divided by $\frac{4 x^5}{3}+\frac{7 x^4}{3}+\frac{7 x^3}{3}+6 x^2-\frac{28 x}{3}+4$.
+Answer:
+$x+\frac{19}{4}$

@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $9 x^2+12 x-10$
+Answer:
+$x=\frac{1}{3} \left(-2-\sqrt{14}\right)\lor x=\frac{1}{3} \left(\sqrt{14}-2\right)$

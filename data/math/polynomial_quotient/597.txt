@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $10 x^4+7 x^3+8 x^2-7 x$ when divided by $-2 x^3+4 x^2-3 x+9$.
+Answer:
+$-5 x-\frac{27}{2}$

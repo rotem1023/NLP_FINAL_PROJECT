@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-10 x^5-9 x^4-3 x^3+8 x^2-x+1$ when divided by $3 x^4-4 x^3+6 x^2+7 x-2$.
+Answer:
+$-\frac{10 x}{3}-\frac{67}{9}$

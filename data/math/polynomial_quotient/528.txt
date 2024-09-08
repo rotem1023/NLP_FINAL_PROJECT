@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-2 x-9$ when divided by $-4 x-\frac{13}{2}$.
+Answer:
+$\frac{1}{2}$

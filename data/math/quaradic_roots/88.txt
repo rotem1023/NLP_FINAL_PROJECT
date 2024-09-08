@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $\frac{28 x^2}{3}+\frac{23 x}{3}-6$
+Answer:
+$x=\frac{1}{56} \left(-23-\sqrt{2545}\right)\lor x=\frac{1}{56} \left(\sqrt{2545}-23\right)$

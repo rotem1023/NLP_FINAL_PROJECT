@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sin ^{-1}\left(\log \left(\frac{44}{5}-5 x\right)\right)=0$
+Answer:
+$\left\{\left\{x\to \frac{39}{25}\right\}\right\}$

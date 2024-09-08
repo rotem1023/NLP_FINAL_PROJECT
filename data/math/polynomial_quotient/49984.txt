@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-10 x^6+4 x^5-2 x^4+x^3-8 x^2-9 x-2$ when divided by $4 x^2+8 x+2$.
+Answer:
+$-\frac{5 x^4}{2}+6 x^3-\frac{45 x^2}{4}+\frac{79 x}{4}-\frac{287}{8}$

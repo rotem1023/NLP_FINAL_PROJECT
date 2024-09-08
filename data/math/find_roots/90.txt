@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{\frac{16 x^2}{3}-\frac{20}{3}}=0$
+Answer:
+$\left\{\left\{x\to -\frac{\sqrt{5}}{2}\right\},\left\{x\to \frac{\sqrt{5}}{2}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log (-5 x-6) \log (x+2)=0$
+Answer:
+$\left\{\left\{x\to -\frac{7}{5}\right\},\{x\to -1\}\right\}$

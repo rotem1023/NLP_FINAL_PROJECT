@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log \left(\sqrt{\frac{15 x}{2}+\frac{15}{2}}\right)=0$
+Answer:
+$\left\{\left\{x\to -\frac{13}{15}\right\}\right\}$

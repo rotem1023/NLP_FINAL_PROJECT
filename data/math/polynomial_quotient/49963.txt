@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-9 x^4-9 x^3+5 x^2-3 x+6$ when divided by $-5 x^3+8 x^2+4 x-6$.
+Answer:
+$\frac{9 x}{5}+\frac{117}{25}$

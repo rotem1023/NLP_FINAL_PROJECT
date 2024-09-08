@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-8 x^2+7 x+\frac{72}{5}$
+Answer:
+$x=\frac{1}{80} \left(35-\sqrt{12745}\right)\lor x=\frac{1}{80} \left(35+\sqrt{12745}\right)$

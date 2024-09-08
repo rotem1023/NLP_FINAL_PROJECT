@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tanh ^{-1}(\tan (7 x+6))=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{7} (\pi  c_1-6)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

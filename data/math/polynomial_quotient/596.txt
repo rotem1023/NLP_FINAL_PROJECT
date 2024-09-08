@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^2+5 x+9$ when divided by $9 x+7$.
+Answer:
+$\frac{29}{27}-\frac{2 x}{3}$

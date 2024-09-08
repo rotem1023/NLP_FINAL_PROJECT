@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^5+4 x^4-4 x^3-x^2-7 x+6$ when divided by $-3 x^2-5 x+7$.
+Answer:
+$-x^3+\frac{x^2}{3}-\frac{14 x}{9}+\frac{100}{27}$

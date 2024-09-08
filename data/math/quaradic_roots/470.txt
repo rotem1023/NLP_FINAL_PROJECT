@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $9 x^2-2 x+5$
+Answer:
+$x=\frac{1}{9} \left(1-2 i \sqrt{11}\right)\lor x=\frac{1}{9} \left(1+2 i \sqrt{11}\right)$

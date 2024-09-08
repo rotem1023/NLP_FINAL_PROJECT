@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(10+11 i) \log (2)$ and $y=(6+12 i) \log (2)$
+Answer:
+$(16+23 i) \log (2)$

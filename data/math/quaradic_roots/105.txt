@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2 \sqrt{3} x^2+3 \sqrt{3} x-\frac{11}{\sqrt{3}}$
+Answer:
+$x=\frac{1}{4} \left(-3-\sqrt{\frac{115}{3}}\right)\lor x=\frac{1}{4} \left(\sqrt{\frac{115}{3}}-3\right)$

@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{\sin \left(2-\frac{14 x}{3}\right)}=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{3}{14} (2 \pi  c_1+2)\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{3}{14} (2 \pi  c_1+\pi +2)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

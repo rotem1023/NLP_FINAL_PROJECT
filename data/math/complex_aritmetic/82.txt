@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(-8-i) \log (2)$ and $y=(3+13 i) \log (2)$
+Answer:
+$(-5+12 i) \log (2)$

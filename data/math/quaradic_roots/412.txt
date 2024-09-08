@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $4 x^2+\frac{23 x}{4}+\frac{13}{4}$
+Answer:
+$x=\frac{1}{32} \left(-23-i \sqrt{303}\right)\lor x=\frac{1}{32} \left(-23+i \sqrt{303}\right)$

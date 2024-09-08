@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4$ when divided by $8$.
+Answer:
+$-\frac{1}{2}$

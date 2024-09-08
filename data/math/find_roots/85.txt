@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tan ^{-1}\left(\sqrt[3]{7 x+5}\right)=0$
+Answer:
+$\left\{\left\{x\to -\frac{5}{7}\right\}\right\}$

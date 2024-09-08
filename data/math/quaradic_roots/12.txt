@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-13 x^2-8 x-10$
+Answer:
+$x=\frac{1}{13} \left(-4-i \sqrt{114}\right)\lor x=\frac{1}{13} \left(-4+i \sqrt{114}\right)$

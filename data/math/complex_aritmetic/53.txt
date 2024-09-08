@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{2-3 i}{\pi }$ and $y=\frac{5+21 i}{\pi }$
+Answer:
+$\frac{7+18 i}{\pi }$

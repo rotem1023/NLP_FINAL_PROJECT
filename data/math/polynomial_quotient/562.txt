@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $\frac{9 x^4}{5}-\frac{11 x^3}{5}-\frac{39 x^2}{5}-\frac{26 x}{5}-\frac{8}{5}$ when divided by $-\frac{27 x^4}{5}-\frac{23 x^3}{5}-9 x^2-\frac{46 x}{5}-\frac{8}{5}$.
+Answer:
+$-\frac{1}{3}$

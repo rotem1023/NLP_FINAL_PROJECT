@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tanh ^{-1}\left(\frac{37}{5}-x\right)=0$
+Answer:
+$\left\{\left\{x\to \frac{37}{5}\right\}\right\}$

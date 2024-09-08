@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{12+2 i}{\pi }$ and $y=-\frac{22+29 i}{\pi }$
+Answer:
+$-\frac{10+27 i}{\pi }$

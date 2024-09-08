@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^5-7 x^4-7 x^3+5 x^2-2 x-5$ when divided by $-6 x^4+7 x^3-6 x-10$.
+Answer:
+$\frac{7}{12}-\frac{x}{2}$

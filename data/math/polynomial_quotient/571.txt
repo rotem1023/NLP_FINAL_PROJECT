@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-x^5+9 x^4-7 x^3+3 x^2-8 x-6$ when divided by $5 x^4-5 x^3-7 x^2-5 x-5$.
+Answer:
+$\frac{8}{5}-\frac{x}{5}$

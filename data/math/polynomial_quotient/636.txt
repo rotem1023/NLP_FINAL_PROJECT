@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $6 x^3+\frac{4 x^2}{3}-\frac{23 x}{3}-\frac{22}{3}$ when divided by $\frac{23 x^2}{3}+\frac{5 x}{3}+\frac{2}{3}$.
+Answer:
+$\frac{18 x}{23}+\frac{2}{529}$

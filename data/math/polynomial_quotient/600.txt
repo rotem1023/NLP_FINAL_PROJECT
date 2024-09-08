@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $6 x^6-3 x^5+8 x^4-7 x^3-4 x^2-4 x$ when divided by $x^5+3 x^4-6 x^3-8 x^2-6 x+6$.
+Answer:
+$6 x-21$

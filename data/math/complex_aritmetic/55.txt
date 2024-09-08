@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-0.1-6. i$ and $y=1.6\, +1.5 i$
+Answer:
+$1.5\, -4.5 i$

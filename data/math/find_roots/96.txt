@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\left(\frac{16 x}{3}-\frac{8}{3}\right)^3 \sqrt{-\frac{20 x^2}{3}-\frac{26}{3}}=0$
+Answer:
+$\left\{\left\{x\to \frac{1}{2}\right\},\left\{x\to -i \sqrt{\frac{13}{10}}\right\},\left\{x\to i \sqrt{\frac{13}{10}}\right\}\right\}$

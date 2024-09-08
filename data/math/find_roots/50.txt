@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\frac{\sqrt[3]{\tan ^{-1}\left(\frac{14}{3}-5 x^2\right)}}{\log \left(6 x+\frac{8}{3}\right)}=0$
+Answer:
+$\left\{\left\{x\to -\sqrt{\frac{14}{15}}\right\},\left\{x\to \sqrt{\frac{14}{15}}\right\}\right\}$

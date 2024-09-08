@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $e^{e^8}-\cos (x+4)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$2 \pi  c_1-\cos ^{-1}\left(e^{e^8}\right)-4\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$2 \pi  c_1+\cos ^{-1}\left(e^{e^8}\right)-4\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

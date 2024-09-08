@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-9 x^3+4 x^2+4 x+7$ when divided by $2 x-10$.
+Answer:
+$-\frac{9 x^2}{2}-\frac{41 x}{2}-\frac{201}{2}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-3-\frac{32 i}{7}$ and $y=-\frac{32}{7}-\frac{2 i}{7}$
+Answer:
+$-\frac{53}{7}-\frac{34 i}{7}$

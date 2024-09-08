@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{\sin \left(\frac{3}{2}-\frac{7 x}{2}\right)} \csc \left(\frac{11}{2}-\frac{9 x}{2}\right)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{7} (3-4 \pi  c_1)\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{1}{7} (-4 \pi  c_1-2 \pi +3)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

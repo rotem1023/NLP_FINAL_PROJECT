@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $10 x^2+3 x-7$
+Answer:
+$x=\frac{7}{10}\lor x=-1$

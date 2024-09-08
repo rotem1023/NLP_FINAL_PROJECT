@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4 x^6-9 x^5-2 x^4-6 x^3-6 x^2+4$ when divided by $x^2-10 x-1$.
+Answer:
+$4 x^4+31 x^3+312 x^2+3145 x+31756$

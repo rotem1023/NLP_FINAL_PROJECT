@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^2-2 x+6$ when divided by $-5 x^2-3 x-7$.
+Answer:
+$-1$

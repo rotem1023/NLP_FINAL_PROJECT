@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4 x^2-7 x-8$ when divided by $-6$.
+Answer:
+$\frac{2 x^2}{3}+\frac{7 x}{6}+\frac{4}{3}$

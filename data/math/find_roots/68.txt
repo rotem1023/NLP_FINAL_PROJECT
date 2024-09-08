@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{\frac{43 x}{5}-\frac{41}{5}} \cos ^{-1}\left(\frac{27 x}{5}+\frac{29}{5}\right)=0$
+Answer:
+$\left\{\left\{x\to -\frac{8}{9}\right\},\left\{x\to \frac{41}{43}\right\}\right\}$

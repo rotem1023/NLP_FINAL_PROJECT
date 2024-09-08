@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{2-27 i}{\pi }$ and $y=\frac{9+2 i}{\pi }$
+Answer:
+$\frac{11-25 i}{\pi }$

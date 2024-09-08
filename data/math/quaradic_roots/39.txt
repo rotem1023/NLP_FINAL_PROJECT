@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2-3 x$
+Answer:
+$x=\frac{2}{3}$

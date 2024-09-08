@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^3-2 x$ when divided by $-4 x^2+7 x-3$.
+Answer:
+$-\frac{5 x}{4}-\frac{35}{16}$

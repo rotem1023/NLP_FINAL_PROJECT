@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=2-2 i$ and $y=9-7 i$
+Answer:
+$11-9 i$

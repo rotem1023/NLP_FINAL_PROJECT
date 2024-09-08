@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tan (5 x+6)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{5} (\pi  c_1-6)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $\frac{44 x^5}{5}+\frac{9 x^4}{5}-\frac{7 x^3}{5}+\frac{22 x^2}{5}+\frac{17 x}{5}-\frac{32}{5}$ when divided by $-\frac{18 x^5}{5}+7 x^4+\frac{29 x^3}{5}+\frac{42 x^2}{5}+\frac{7 x}{5}+\frac{16}{5}$.
+Answer:
+$-\frac{22}{9}$

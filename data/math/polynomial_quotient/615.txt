@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{23 x^3}{5}-\frac{28 x^2}{5}+\frac{27 x}{5}-\frac{1}{5}$ when divided by $\frac{13 x^3}{5}-4 x^2+9 x-\frac{38}{5}$.
+Answer:
+$-\frac{23}{13}$

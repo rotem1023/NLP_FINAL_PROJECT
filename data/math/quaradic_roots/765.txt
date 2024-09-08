@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-4 x^2-14 x-3$
+Answer:
+$x=\frac{1}{4} \left(-7-\sqrt{37}\right)\lor x=\frac{1}{4} \left(\sqrt{37}-7\right)$

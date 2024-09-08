@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $9 x^5-x^4-10 x^3+2 x^2-5 x+4$ when divided by $7 x+6$.
+Answer:
+$\frac{9 x^4}{7}-\frac{61 x^3}{49}-\frac{124 x^2}{343}+\frac{1430 x}{2401}-\frac{20585}{16807}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{3 x^2}{2}+9 x+3$ when divided by $x-1$.
+Answer:
+$\frac{15}{2}-\frac{3 x}{2}$

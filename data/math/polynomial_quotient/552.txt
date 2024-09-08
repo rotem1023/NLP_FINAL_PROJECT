@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4 x^3+9 x^2-9 x+4$ when divided by $x^2-10 x-1$.
+Answer:
+$4 x+49$

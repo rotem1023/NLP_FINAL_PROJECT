@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{17}{5}-\frac{18 i}{5}$ and $y=8-\frac{39 i}{5}$
+Answer:
+$\frac{23}{5}-\frac{57 i}{5}$

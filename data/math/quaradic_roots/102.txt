@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{64 x^2}{7}-\frac{80 x}{7}-\frac{20}{7}$
+Answer:
+$x=\frac{1}{8} \left(-5-\sqrt{5}\right)\lor x=\frac{1}{8} \left(\sqrt{5}-5\right)$

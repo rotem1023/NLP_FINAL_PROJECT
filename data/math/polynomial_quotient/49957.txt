@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-3 x^2+10 x-6$ when divided by $-7 x^2+9 x+4$.
+Answer:
+$\frac{3}{7}$

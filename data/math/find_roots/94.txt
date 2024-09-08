@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{-3 x-7}=0$
+Answer:
+$\left\{\left\{x\to -\frac{7}{3}\right\}\right\}$

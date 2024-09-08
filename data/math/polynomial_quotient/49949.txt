@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-8 x^5-\frac{x^4}{2}-5 x^3-7 x^2-2 x+6$ when divided by $\frac{x^5}{2}-8 x^4+\frac{7 x^3}{2}-\frac{9 x^2}{2}-\frac{9 x}{2}-\frac{5}{2}$.
+Answer:
+$-16$

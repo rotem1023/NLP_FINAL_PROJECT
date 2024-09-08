@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sin (9-5 x)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{5} (2 \pi  c_1+9)\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{1}{5} (2 \pi  c_1+\pi +9)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=7+2 i$ and $y=7-2 i$
+Answer:
+$14$

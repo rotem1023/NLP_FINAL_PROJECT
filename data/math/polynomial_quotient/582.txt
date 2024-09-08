@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^6-4 x^5-x^4+7 x^3-7 x^2-x+7$ when divided by $2 x^2-x-6$.
+Answer:
+$-3 x^4-\frac{7 x^3}{2}-\frac{45 x^2}{4}-\frac{101 x}{8}-\frac{697}{16}$

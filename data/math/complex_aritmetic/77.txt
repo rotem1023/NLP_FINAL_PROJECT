@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{16+26 i}{\pi }$ and $y=-\frac{30+3 i}{\pi }$
+Answer:
+$-\frac{46+29 i}{\pi }$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $7 x^2+4 x+8$ when divided by $2-2 x$.
+Answer:
+$-\frac{7 x}{2}-\frac{11}{2}$

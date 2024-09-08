@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[9]{-x-2}-\sqrt[3]{7 x-4}=0$
+Answer:
+$\left\{\left\{x\to \text{Root}\left[343 \text{$\#$1}^3-588 \text{$\#$1}^2+337 \text{$\#$1}-62\&,1\right]\right\}\right\}$

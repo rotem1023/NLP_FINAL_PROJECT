@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $13 x^2+\frac{19 x}{4}+\frac{11}{4}$
+Answer:
+$x=\frac{1}{104} \left(-19-i \sqrt{1927}\right)\lor x=\frac{1}{104} \left(-19+i \sqrt{1927}\right)$

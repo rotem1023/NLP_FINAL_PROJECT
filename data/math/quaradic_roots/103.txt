@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{16 x^2}{\sqrt{3}}+8 \sqrt{3} x+6 \sqrt{3}$
+Answer:
+$x=\frac{3}{4} \left(1-\sqrt{3}\right)\lor x=\frac{3}{4} \left(1+\sqrt{3}\right)$

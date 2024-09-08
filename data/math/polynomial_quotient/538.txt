@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{7 x^3}{3}-2 x^2-4 x+\frac{14}{3}$ when divided by $\frac{23}{3}-7 x$.
+Answer:
+$\frac{x^2}{3}+\frac{41 x}{63}+\frac{1699}{1323}$

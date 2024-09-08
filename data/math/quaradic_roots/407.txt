@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-5 \sqrt{5} x^2-4 \sqrt{5} x+2 \sqrt{5}$
+Answer:
+$x=\frac{1}{5} \left(-2-\sqrt{14}\right)\lor x=\frac{1}{5} \left(\sqrt{14}-2\right)$

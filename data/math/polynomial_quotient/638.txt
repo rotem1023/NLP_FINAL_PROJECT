@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^5+3 x^4-10 x^3+2 x+5$ when divided by $9 x^4-3 x^3-10 x^2-3 x-2$.
+Answer:
+$\frac{2}{27}-\frac{7 x}{9}$

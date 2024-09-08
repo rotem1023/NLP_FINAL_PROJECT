@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $\frac{15 x^4}{2}+\frac{11 x^3}{2}-4 x^2+9 x-6$ when divided by $\frac{5}{2}$.
+Answer:
+$3 x^4+\frac{11 x^3}{5}-\frac{8 x^2}{5}+\frac{18 x}{5}-\frac{12}{5}$

@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{3}{7}-\frac{13 i}{7}$ and $y=9-\frac{5 i}{7}$
+Answer:
+$\frac{60}{7}-\frac{18 i}{7}$

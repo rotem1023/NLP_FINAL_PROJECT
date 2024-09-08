@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tan ^{-1}\left(x^4+9\right)=0$
+Answer:
+$\left\{\left\{x\to -\sqrt[4]{-1} \sqrt{3}\right\},\left\{x\to \sqrt[4]{-1} \sqrt{3}\right\},\left\{x\to -(-1)^{3/4} \sqrt{3}\right\},\left\{x\to (-1)^{3/4} \sqrt{3}\right\}\right\}$

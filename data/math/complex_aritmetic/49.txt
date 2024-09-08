@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{11+7 i}{e}$ and $y=-\frac{18+3 i}{e}$
+Answer:
+$-\frac{7-4 i}{e}$

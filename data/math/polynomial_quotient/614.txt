@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-9 x^2+7 x+1$ when divided by $5 x-9$.
+Answer:
+$-\frac{9 x}{5}-\frac{46}{25}$

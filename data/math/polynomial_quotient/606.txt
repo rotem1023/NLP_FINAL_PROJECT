@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^3+\frac{11 x^2}{2}+5 x-6$ when divided by $\frac{15}{2}-\frac{11 x}{2}$.
+Answer:
+$-\frac{6 x^2}{11}-\frac{211 x}{121}-\frac{4375}{1331}$

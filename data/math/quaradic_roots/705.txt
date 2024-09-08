@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{20 x^2}{\sqrt{3}}+\sqrt{3} x-\frac{2}{\sqrt{3}}$
+Answer:
+$x=-\frac{1}{40} \sqrt{3} \left(-\sqrt{3}-i \sqrt{\frac{151}{3}}\right)\lor x=-\frac{1}{40} \sqrt{3} \left(-\sqrt{3}+i \sqrt{\frac{151}{3}}\right)$

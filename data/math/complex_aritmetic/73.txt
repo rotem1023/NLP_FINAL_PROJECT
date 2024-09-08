@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(3-3 i) e$ and $y=(1-i) e$
+Answer:
+$(4-4 i) e$

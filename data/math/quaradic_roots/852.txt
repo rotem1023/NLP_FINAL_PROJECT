@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $6 x^2+13 x+1$
+Answer:
+$x=\frac{1}{12} \left(-13-\sqrt{145}\right)\lor x=\frac{1}{12} \left(\sqrt{145}-13\right)$

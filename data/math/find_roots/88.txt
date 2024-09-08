@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $e^{\tan (6-2 x)}-\sqrt{2}=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{2} \left(-i \tanh ^{-1}\left(2 \pi  c_2-\frac{1}{2} i \log (2)\right)+\pi  c_1+6\right)\text{ if }c_2\in \mathbb{Z}\land c_1\in \mathbb{Z}$}\right\}\right\}$

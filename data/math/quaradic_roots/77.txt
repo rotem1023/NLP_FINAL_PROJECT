@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-4 \sqrt{3} x^2+8 \sqrt{3} x+\sqrt{3}$
+Answer:
+$x=\frac{1}{2} \left(2-\sqrt{5}\right)\lor x=\frac{1}{2} \left(2+\sqrt{5}\right)$

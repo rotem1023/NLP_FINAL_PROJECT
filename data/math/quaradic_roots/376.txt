@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $2 \sqrt{2} x^2-4 \sqrt{2} x+4 \sqrt{2}$
+Answer:
+$x=1-i\lor x=1+i$

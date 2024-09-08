@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $7 x^2+9 x-12$
+Answer:
+$x=\frac{1}{14} \left(-9-\sqrt{417}\right)\lor x=\frac{1}{14} \left(\sqrt{417}-9\right)$

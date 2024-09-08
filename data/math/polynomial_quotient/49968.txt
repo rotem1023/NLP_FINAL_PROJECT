@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-4 x^6+7 x^5-7 x^4+7 x^3-3 x^2+4 x-9$ when divided by $4 x^5-2 x^4-5 x^3-8 x^2+2 x+4$.
+Answer:
+$\frac{5}{4}-x$

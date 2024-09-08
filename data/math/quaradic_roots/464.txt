@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $13 x^2-5 x-5$
+Answer:
+$x=\frac{1}{26} \left(5-\sqrt{285}\right)\lor x=\frac{1}{26} \left(5+\sqrt{285}\right)$

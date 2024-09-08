@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt{8-\frac{33 x}{5}} \sqrt{\frac{3 x^4}{5}-\frac{29}{5}}=0$
+Answer:
+$\left\{\left\{x\to \frac{40}{33}\right\},\left\{x\to -\sqrt[4]{\frac{29}{3}}\right\},\left\{x\to -i \sqrt[4]{\frac{29}{3}}\right\},\left\{x\to i \sqrt[4]{\frac{29}{3}}\right\},\left\{x\to \sqrt[4]{\frac{29}{3}}\right\}\right\}$

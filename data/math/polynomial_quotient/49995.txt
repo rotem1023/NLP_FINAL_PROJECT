@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $8 x^3-10 x^2+5 x-6$ when divided by $6 x-5$.
+Answer:
+$\frac{4 x^2}{3}-\frac{5 x}{9}+\frac{10}{27}$

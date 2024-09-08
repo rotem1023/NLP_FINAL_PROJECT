@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^5-10 x^4-x^3+7 x^2+5 x-8$ when divided by $5 x^3+7 x^2-4 x+6$.
+Answer:
+$\frac{x^2}{5}-\frac{57 x}{25}+\frac{394}{125}$

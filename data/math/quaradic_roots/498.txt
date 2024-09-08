@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-14 x^2-2 x-1$
+Answer:
+$x=\frac{1}{14} \left(-1-i \sqrt{13}\right)\lor x=\frac{1}{14} \left(-1+i \sqrt{13}\right)$

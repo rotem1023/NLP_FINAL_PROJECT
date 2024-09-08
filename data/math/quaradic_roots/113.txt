@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $14-9 x$
+Answer:
+$x=\frac{14}{9}$

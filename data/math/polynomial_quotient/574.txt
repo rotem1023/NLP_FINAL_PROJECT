@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4 x^4+\frac{5 x^3}{3}-\frac{4 x^2}{3}-\frac{16 x}{3}+\frac{20}{3}$ when divided by $-\frac{23 x^3}{3}+\frac{20 x^2}{3}+\frac{7 x}{3}+\frac{29}{3}$.
+Answer:
+$-\frac{12 x}{23}-\frac{355}{529}$

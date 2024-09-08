@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $4-7 x$ when divided by $-5$.
+Answer:
+$\frac{7 x}{5}-\frac{4}{5}$

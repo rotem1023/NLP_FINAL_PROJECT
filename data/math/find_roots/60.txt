@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{2-x} \sqrt[3]{2 x-9}=0$
+Answer:
+$\left\{\{x\to 2\},\left\{x\to \frac{9}{2}\right\}\right\}$

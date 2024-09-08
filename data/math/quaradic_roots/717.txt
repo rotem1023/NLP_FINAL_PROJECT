@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-2 x^2-12 x+1$
+Answer:
+$x=\frac{1}{2} \left(-6-\sqrt{38}\right)\lor x=\frac{1}{2} \left(\sqrt{38}-6\right)$

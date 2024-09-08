@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^4-3 x^3+8 x^2-6 x-5$ when divided by $-x^3-8 x^2+3 x+3$.
+Answer:
+$43-5 x$

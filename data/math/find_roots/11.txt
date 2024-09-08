@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\frac{\sin (6-x)}{\sqrt[3]{-6 x-2}}=0$
+Answer:
+$\{\{x\to \fbox{$6-2 \pi  c_1\text{ if }(c_1\in \mathbb{Z}\land c_1\geq 2)\lor (c_1\in \mathbb{Z}\land c_1\leq 1)$}\},\{x\to \fbox{$-2 \pi  c_1-\pi +6\text{ if }(c_1\in \mathbb{Z}\land c_1\geq 1)\lor (c_1\in \mathbb{Z}\land c_1\leq 0)$}\}\}$

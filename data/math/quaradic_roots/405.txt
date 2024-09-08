@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-11 x^2+8 x-5$
+Answer:
+$x=\frac{1}{11} \left(4-i \sqrt{39}\right)\lor x=\frac{1}{11} \left(4+i \sqrt{39}\right)$

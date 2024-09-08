@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{5}{3}+\frac{10 i}{3}$ and $y=\frac{19}{3}+\frac{8 i}{3}$
+Answer:
+$8+6 i$

@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{27 x^2}{2}+4 x+\frac{7}{2}$
+Answer:
+$x=\frac{1}{27} \left(4-\sqrt{205}\right)\lor x=\frac{1}{27} \left(4+\sqrt{205}\right)$

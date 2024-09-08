@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5 x^5+x^4-5 x^3+x^2+9 x-6$ when divided by $-5 x^4-5 x^3-7 x^2-7 x+1$.
+Answer:
+$\frac{4}{5}-x$

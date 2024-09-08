@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{\cos \left(\frac{15 x}{2}+\frac{7}{2}\right)}=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{15} (4 \pi  c_1-\pi -7)\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{1}{15} (4 \pi  c_1+\pi -7)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

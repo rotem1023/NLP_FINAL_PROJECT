@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^3-5 x^2-8 x+9$ when divided by $-5 x^2-2 x+9$.
+Answer:
+$\frac{6 x}{5}+\frac{13}{25}$

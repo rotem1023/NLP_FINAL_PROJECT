@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $14 x^2-10 x-12$
+Answer:
+$x=\frac{1}{14} \left(5-\sqrt{193}\right)\lor x=\frac{1}{14} \left(5+\sqrt{193}\right)$

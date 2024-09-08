@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $9 x^6+4 x^5+x^4+8 x^2-6 x+7$ when divided by $-5 x^4+7 x^3+4 x^2-8 x+4$.
+Answer:
+$-\frac{9 x^2}{5}-\frac{83 x}{25}-\frac{786}{125}$

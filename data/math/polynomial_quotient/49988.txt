@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $2 x^3-7 x^2+2 x-2$ when divided by $10 x^2-10 x-7$.
+Answer:
+$\frac{x}{5}-\frac{1}{2}$

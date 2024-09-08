@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-10 x^2+5 x-2$
+Answer:
+$x=\frac{1}{20} \left(5-i \sqrt{55}\right)\lor x=\frac{1}{20} \left(5+i \sqrt{55}\right)$

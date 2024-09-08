@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-8 x^2-3 x-1$
+Answer:
+$x=\frac{1}{16} \left(-3-i \sqrt{23}\right)\lor x=\frac{1}{16} \left(-3+i \sqrt{23}\right)$

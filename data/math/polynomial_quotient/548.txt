@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^3+6 x+1$ when divided by $9$.
+Answer:
+$-\frac{2 x^3}{3}+\frac{2 x}{3}+\frac{1}{9}$

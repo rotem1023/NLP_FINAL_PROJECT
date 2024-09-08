@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $8$ when divided by $-8$.
+Answer:
+$-1$

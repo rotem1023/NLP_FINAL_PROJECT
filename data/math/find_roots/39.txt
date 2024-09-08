@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\tan (7-7 x)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{1}{7} (\pi  c_1+7)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

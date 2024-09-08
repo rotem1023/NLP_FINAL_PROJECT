@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-5 \sqrt{5} x^2-4 \sqrt{5}$
+Answer:
+$x=\frac{2 i}{\sqrt{5}}\lor x=-\frac{2 i}{\sqrt{5}}$

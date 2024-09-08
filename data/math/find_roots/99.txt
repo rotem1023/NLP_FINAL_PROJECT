@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{4-8 x^2}-\tan (5)=0$
+Answer:
+$\left\{\left\{x\to -\frac{1}{2} \sqrt{\frac{1}{2} \left(4-\tan ^3(5)\right)}\right\},\left\{x\to \frac{1}{2} \sqrt{\frac{1}{2} \left(4-\tan ^3(5)\right)}\right\}\right\}$

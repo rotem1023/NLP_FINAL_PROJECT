@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $6 x^4+10 x^3+x^2+5$ when divided by $-6 x^3+4 x^2+8 x+5$.
+Answer:
+$-x-\frac{7}{3}$

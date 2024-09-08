@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-5 x^2+12 x-6$
+Answer:
+$x=\frac{1}{5} \left(6-\sqrt{6}\right)\lor x=\frac{1}{5} \left(6+\sqrt{6}\right)$

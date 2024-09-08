@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^6-7 x^5+10 x^4-7 x^3-10 x^2+10 x+2$ when divided by $2 x^4+3 x^3+8 x^2+9 x-7$.
+Answer:
+$-\frac{7 x^2}{2}+\frac{7 x}{4}+\frac{131}{8}$

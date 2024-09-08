@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-7 x^5-6 x^4-x^3+5 x^2+5 x-10$ when divided by $-6 x^5+8 x^4-9 x^3+5 x^2+3 x+8$.
+Answer:
+$\frac{7}{6}$

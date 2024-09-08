@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-x^6+6 x^5+6 x^4+2 x^3-6 x^2-x+6$ when divided by $-9 x^2-5 x-3$.
+Answer:
+$\frac{x^4}{9}-\frac{59 x^3}{81}-\frac{218 x^2}{729}+\frac{1225 x}{6561}+\frac{39127}{59049}$

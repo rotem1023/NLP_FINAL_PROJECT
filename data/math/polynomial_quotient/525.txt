@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^6-5 x^5+7 x^4-8 x^3+4 x^2+4 x+3$ when divided by $-8 x^3-x^2-2 x-5$.
+Answer:
+$-\frac{3 x^3}{8}+\frac{43 x^2}{64}-\frac{443 x}{512}+\frac{4811}{4096}$

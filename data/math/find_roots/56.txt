@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\sqrt[3]{-3 x-5}=0$
+Answer:
+$\left\{\left\{x\to -\frac{5}{3}\right\}\right\}$

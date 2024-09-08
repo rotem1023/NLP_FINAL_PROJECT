@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\sin \left(8-\frac{3 x}{2}\right)=0$
+Answer:
+$\left\{\left\{x\to \fbox{$\frac{2}{3} (2 \pi  c_1+8)\text{ if }c_1\in \mathbb{Z}$}\right\},\left\{x\to \fbox{$\frac{2}{3} (2 \pi  c_1+\pi +8)\text{ if }c_1\in \mathbb{Z}$}\right\}\right\}$

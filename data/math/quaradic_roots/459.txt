@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-5 x^2+2 x-4$
+Answer:
+$x=\frac{1}{5} \left(1-i \sqrt{19}\right)\lor x=\frac{1}{5} \left(1+i \sqrt{19}\right)$

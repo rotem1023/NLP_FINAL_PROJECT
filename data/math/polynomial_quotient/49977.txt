@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $\frac{3 x^5}{2}-3 x^4+\frac{13 x^3}{2}-\frac{x^2}{2}+x+1$ when divided by $\frac{3 x^2}{2}+3 x-\frac{17}{2}$.
+Answer:
+$x^3-4 x^2+18 x-59$

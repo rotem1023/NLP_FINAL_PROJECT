@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $3 x^2+\frac{7 x}{5}-1$ when divided by $-\frac{17}{5}$.
+Answer:
+$-\frac{15 x^2}{17}-\frac{7 x}{17}+\frac{5}{17}$

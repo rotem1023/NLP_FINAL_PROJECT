@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^3+7 x^2+9 x-9$ when divided by $8 x-7$.
+Answer:
+$-\frac{3 x^2}{4}+\frac{7 x}{32}+\frac{337}{256}$

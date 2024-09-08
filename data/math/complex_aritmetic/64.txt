@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=10$ and $y=9+7 i$
+Answer:
+$19+7 i$

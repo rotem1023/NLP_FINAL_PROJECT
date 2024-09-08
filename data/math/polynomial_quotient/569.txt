@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $5$ when divided by $-5$.
+Answer:
+$-1$

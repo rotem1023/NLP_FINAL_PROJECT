@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-\frac{19 x^4}{2}+\frac{5 x^3}{2}-\frac{13 x^2}{2}-7 x+\frac{3}{2}$ when divided by $-9 x^3-10 x^2-3 x-\frac{5}{2}$.
+Answer:
+$\frac{19 x}{18}-\frac{235}{162}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $2 x^4-6 x^3+9 x^2+6 x+6$ when divided by $8 x^2+6 x-1$.
+Answer:
+$\frac{x^2}{4}-\frac{15 x}{16}+\frac{119}{64}$

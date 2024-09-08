@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $x^5-\frac{13 x^4}{3}+\frac{23 x^3}{3}+8 x^2-2$ when divided by $-\frac{x^2}{3}-\frac{x}{3}+\frac{29}{3}$.
+Answer:
+$-3 x^3+16 x^2-126 x+566$

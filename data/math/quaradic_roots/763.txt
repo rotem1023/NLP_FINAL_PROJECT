@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $7 x^2-11 x-7$
+Answer:
+$x=\frac{1}{14} \left(11-\sqrt{317}\right)\lor x=\frac{1}{14} \left(11+\sqrt{317}\right)$

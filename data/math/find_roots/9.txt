@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $-\tan (3-x)=0$
+Answer:
+$\{\{x\to \fbox{$\pi  c_1+3\text{ if }c_1\in \mathbb{Z}$}\}\}$

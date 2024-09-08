@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-15 x^2-8 x$
+Answer:
+$x=-\frac{8}{15}\lor x=0$

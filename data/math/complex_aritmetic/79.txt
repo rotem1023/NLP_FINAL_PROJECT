@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=-\frac{5+14 i}{e}$ and $y=-\frac{25+11 i}{e}$
+Answer:
+$-\frac{30+25 i}{e}$

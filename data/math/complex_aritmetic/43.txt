@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=\frac{11}{5}-\frac{3 i}{5}$ and $y=-\frac{17}{5}+\frac{49 i}{5}$
+Answer:
+$-\frac{6}{5}+\frac{46 i}{5}$

@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $\frac{13 x^6}{2}-\frac{13 x^5}{2}+\frac{19 x^4}{2}+\frac{19 x^3}{2}+x^2+7 x+\frac{7}{2}$ when divided by $-\frac{3 x^4}{2}-\frac{7 x^3}{2}+\frac{9 x^2}{2}+\frac{11 x}{2}+1$.
+Answer:
+$-\frac{13 x^2}{3}+\frac{130 x}{9}-\frac{1432}{27}$

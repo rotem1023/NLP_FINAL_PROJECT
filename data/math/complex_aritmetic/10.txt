@@ -1,0 +1,4 @@
+Problem:
+Find $x+y$ where $x=(-2-2 i) e$ and $y=-4 e$
+Answer:
+$(-6-2 i) e$

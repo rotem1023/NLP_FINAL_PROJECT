@@ -1,0 +1,4 @@
+Problem:
+Find all roots of the following function: $\log (-6 x)=0$
+Answer:
+$\left\{\left\{x\to -\frac{1}{6}\right\}\right\}$

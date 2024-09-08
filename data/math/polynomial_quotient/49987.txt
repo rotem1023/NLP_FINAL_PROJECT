@@ -1,0 +1,4 @@
+Problem:
+Find the quotient of $-6 x^5+7 x^4+2 x^3-10 x^2+5 x+3$ when divided by $-3 x^2-9 x-9$.
+Answer:
+$2 x^3-\frac{25 x^2}{3}+\frac{55 x}{3}-\frac{80}{3}$

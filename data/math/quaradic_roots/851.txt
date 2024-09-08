@@ -1,0 +1,4 @@
+Problem:
+Find the roots of the following polynomial: $-\frac{13 x^2}{\sqrt{3}}+\frac{11 x}{\sqrt{3}}-5 \sqrt{3}$
+Answer:
+$x=-\frac{1}{26} \sqrt{3} \left(-\frac{11}{\sqrt{3}}-i \sqrt{\frac{659}{3}}\right)\lor x=-\frac{1}{26} \sqrt{3} \left(-\frac{11}{\sqrt{3}}+i \sqrt{\frac{659}{3}}\right)$
