@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{43}{10} \\
+ \frac{44}{5} \\
+ \frac{71}{10} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 4 \\
+ \frac{13}{5} \\
+ -\frac{17}{2} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{4663}{50} \\
+ \frac{1299}{20} \\
+ -\frac{1201}{50} \\
+\end{array}
+\right)$

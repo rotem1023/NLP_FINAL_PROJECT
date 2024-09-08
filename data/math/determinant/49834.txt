@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{17}{6} & \frac{13}{3} \\
+ -\frac{10}{3} & -\frac{5}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{145}{12}$

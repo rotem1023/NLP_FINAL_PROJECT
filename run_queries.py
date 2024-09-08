@@ -36,7 +36,7 @@ def _get_query(prompt, original_query, task_name):
     if task_name == TaskName.summaries_topics:
         output = f"{prompt_with_query} Please provide the longest summary possible"
     if task_name == TaskName.math:
-        output = f"{prompt_with_query} Please provide answer with one word"
+        output = f"{prompt_with_query} Write minimum words possible"
     return output
 
 def _get_task_prompt_dir(task_name, prompt_level):

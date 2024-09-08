@@ -1,0 +1,21 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -1 \\
+ \frac{3}{7} \\
+ -2 \\
+ 1 \\
+ \frac{13}{7} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{7}{2 \sqrt{118}} \\
+ \frac{3}{2 \sqrt{118}} \\
+ -\frac{7}{\sqrt{118}} \\
+ \frac{7}{2 \sqrt{118}} \\
+ \frac{13}{2 \sqrt{118}} \\
+\end{array}
+\right)$

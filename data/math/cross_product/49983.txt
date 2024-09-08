@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -8 \\
+ 0 \\
+ -8 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 0 \\
+ 9 \\
+ 9 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 72 \\
+ 72 \\
+ -72 \\
+\end{array}
+\right)$

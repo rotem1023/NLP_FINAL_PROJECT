@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{13}{5} \\
+ -\frac{8}{5} \\
+ -\frac{12}{5} \\
+ \frac{13}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \sqrt{\frac{13}{42}} \\
+ -4 \sqrt{\frac{2}{273}} \\
+ -2 \sqrt{\frac{6}{91}} \\
+ \sqrt{\frac{13}{42}} \\
+\end{array}
+\right)$

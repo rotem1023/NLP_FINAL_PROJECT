@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{8}{3} \\
+ -\frac{8}{3} \\
+ -\frac{2}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{4}{3} \\
+ \frac{4}{3} \\
+ \frac{10}{3} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -8 \\
+ -\frac{88}{9} \\
+ \frac{64}{9} \\
+\end{array}
+\right)$

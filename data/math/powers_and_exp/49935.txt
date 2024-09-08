@@ -1,0 +1,17 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{ccc}
+ -4 & 3 & -3 \\
+ -5 & 4 & -3 \\
+ 1 & -1 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{ccc}
+ \frac{2}{e}-e^2 & e^2-\frac{1}{e} & \frac{1}{e}-e^2 \\
+ \frac{2}{e}-e-e^2 & -\frac{1}{e}+e+e^2 & \frac{1}{e}-e^2 \\
+ e^2-e & e-e^2 & e^2 \\
+\end{array}
+\right)$

@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{9}{4} \\
+ -2 \\
+ -\frac{3}{4} \\
+ \frac{9}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{9}{\sqrt{235}} \\
+ -\frac{8}{\sqrt{235}} \\
+ -\frac{3}{\sqrt{235}} \\
+ \frac{9}{\sqrt{235}} \\
+\end{array}
+\right)$

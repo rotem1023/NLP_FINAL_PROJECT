@@ -1,0 +1,9 @@
+Problem:
+Give a list of vectors that forms a basis for the null space of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccc}
+ 6 & 1 & 3 \\
+\end{array}
+\right)$.
+Answer:
+${\{-1.,0.,2.\}, \{-1.,6.,0.\}}$

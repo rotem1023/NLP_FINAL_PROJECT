@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 10 \\
+ -5 \\
+ -2 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -7 \\
+ -2 \\
+ 3 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -19 \\
+ -16 \\
+ -55 \\
+\end{array}
+\right)$

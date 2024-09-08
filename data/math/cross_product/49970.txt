@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -6 \\
+ -3 \\
+ 4 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -1 \\
+ 9 \\
+ 9 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -63 \\
+ 50 \\
+ -57 \\
+\end{array}
+\right)$

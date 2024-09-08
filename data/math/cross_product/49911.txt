@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{17}{5} \\
+ 6 \\
+ -\frac{17}{5} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{21}{5} \\
+ \frac{9}{5} \\
+ \frac{49}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{1623}{25} \\
+ \frac{476}{25} \\
+ -\frac{783}{25} \\
+\end{array}
+\right)$

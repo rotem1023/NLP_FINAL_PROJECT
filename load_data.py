@@ -42,7 +42,9 @@ def _get_data_dir():
 def _load_summaries_topics_task():
     output = []
     data_dir = f"{_get_data_dir()}/summaries_topics"
-    for filename in os.listdir(data_dir):
+    files = os.listdir(data_dir)
+    files.sort()
+    for filename in files:
         file_path = os.path.join(data_dir, filename)
         if os.path.isfile(file_path):
             with open(file_path, 'r') as file:
@@ -77,12 +79,37 @@ def _load_sentiment_analysis():
 
 
 def _load_math():
-    # TODO: implement this function
-    tar_file_path = "C:\\Users\\rotem\\Downloads\\amps.tar.gz"
-    with tarfile.open(tar_file_path, 'r') as tar:
-        # Iterate over all members in the tar file
-        for member in tar.getmembers():
-            # Check if the member is a file
-            if member.isfile():
-                # Print the file path
-                print(member.name)
+    output_queries = []
+    output_responses = []
+    data_dir = f"{_get_data_dir()}/math"
+    dirs = os.listdir(data_dir)
+    dirs = [d for d in dirs if os.path.isdir(os.path.join(data_dir, d))]
+    dirs.sort()
+    for dir in dirs:
+        dir_path = f"{data_dir}\{dir}"
+        dir_files = os.listdir(os.path.join(data_dir,dir))
+        files = [f for f in dir_files if os.path.isfile(os.path.join(dir_path, f))]
+        files.sort()
+        for i in range(100):
+            cur_file = files[i]
+            query, expected_res = _read_and_split_file(os.path.join(dir_path, cur_file))
+            if query is None or expected_res is None:
+                raise RuntimeError(f"Wrong format file: {cur_file}")
+            output_responses.append(expected_res)
+            output_queries.append(query)
+    return output_queries, output_responses
+
+
+def _read_and_split_file(file_path):
+    with open(file_path, 'r') as file:
+        content = file.read()
+
+    # Split the content by 'Answer:' to separate problem and answer
+    parts = content.split('Answer:')
+
+    if len(parts) == 2:
+        problem = parts[0].replace('Problem:', '').strip()  # Get the problem part and clean it
+        solution = parts[1].strip()  # Get the solution part and clean it
+        return problem, solution
+    else:
+        return None, None

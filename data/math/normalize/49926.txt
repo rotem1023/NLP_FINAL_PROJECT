@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{13}{5} \\
+ \frac{9}{10} \\
+ -\frac{9}{5} \\
+ -\frac{3}{5} \\
+ -\frac{1}{2} \\
+ -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ 13 \sqrt{\frac{2}{1021}} \\
+ \frac{9}{\sqrt{2042}} \\
+ -9 \sqrt{\frac{2}{1021}} \\
+ -3 \sqrt{\frac{2}{1021}} \\
+ -\frac{5}{\sqrt{2042}} \\
+ -15 \sqrt{\frac{2}{1021}} \\
+\end{array}
+\right)$

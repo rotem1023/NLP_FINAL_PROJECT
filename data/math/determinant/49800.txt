@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{9}{2} & \frac{3}{10} \\
+ \frac{7}{10} & \frac{7}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{84}{25}$

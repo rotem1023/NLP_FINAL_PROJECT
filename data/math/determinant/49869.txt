@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{9}{2} & -\frac{13}{3} \\
+ \frac{7}{2} & \frac{25}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{407}{12}$

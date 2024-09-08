@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{9}{2} \\
+ -\frac{7}{2} \\
+ \frac{14}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{25}{6} \\
+ \frac{13}{2} \\
+ 1 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{203}{6} \\
+ -\frac{269}{18} \\
+ -\frac{263}{6} \\
+\end{array}
+\right)$

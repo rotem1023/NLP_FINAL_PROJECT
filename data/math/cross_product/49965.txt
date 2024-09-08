@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{477}{50} \\
+ \frac{551}{100} \\
+ \frac{67}{20} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{657}{100} \\
+ -\frac{467}{100} \\
+ -\frac{43}{50} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{109059}{10000} \\
+ \frac{302139}{10000} \\
+ -\frac{32301}{400} \\
+\end{array}
+\right)$

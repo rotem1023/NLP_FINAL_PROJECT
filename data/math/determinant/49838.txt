@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{7}{2} & 0 \\
+ -\frac{5}{2} & -3 \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{21}{2}$

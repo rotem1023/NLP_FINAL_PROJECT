@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{16}{5} & \frac{8}{5} \\
+ -4 & -\frac{24}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{224}{25}$

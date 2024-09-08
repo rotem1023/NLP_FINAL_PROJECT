@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{26}{3} \\
+ -\frac{17}{3} \\
+ -\frac{20}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{28}{3} \\
+ \frac{20}{3} \\
+ \frac{1}{3} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{383}{9} \\
+ \frac{586}{9} \\
+ -\frac{332}{3} \\
+\end{array}
+\right)$

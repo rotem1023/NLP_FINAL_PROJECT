@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{193}{100} \\
+ -\frac{361}{50} \\
+ \frac{69}{10} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{17}{5} \\
+ \frac{13}{10} \\
+ -\frac{59}{100} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{23551}{5000} \\
+ -\frac{223213}{10000} \\
+ -\frac{22039}{1000} \\
+\end{array}
+\right)$

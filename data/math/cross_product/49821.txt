@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{20}{3} \\
+ \frac{4}{3} \\
+ \frac{22}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{29}{3} \\
+ -\frac{16}{3} \\
+ \frac{17}{3} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{140}{3} \\
+ -\frac{298}{9} \\
+ \frac{436}{9} \\
+\end{array}
+\right)$

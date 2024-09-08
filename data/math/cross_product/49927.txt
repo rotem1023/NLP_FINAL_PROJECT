@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{9}{7} \\
+ \frac{46}{7} \\
+ \frac{62}{7} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{29}{7} \\
+ -\frac{5}{7} \\
+ -\frac{53}{7} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{304}{7} \\
+ -\frac{1321}{49} \\
+ \frac{1289}{49} \\
+\end{array}
+\right)$

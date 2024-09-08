@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{5}{2} \\
+ 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{5}{\sqrt{41}} \\
+ \frac{4}{\sqrt{41}} \\
+\end{array}
+\right)$

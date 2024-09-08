@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -6 \\
+ -\frac{11}{5} \\
+ \frac{21}{5} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{16}{5} \\
+ -\frac{48}{5} \\
+ -\frac{46}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{1514}{25} \\
+ -\frac{1044}{25} \\
+ \frac{1616}{25} \\
+\end{array}
+\right)$

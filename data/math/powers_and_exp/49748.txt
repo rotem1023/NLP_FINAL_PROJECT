@@ -1,0 +1,19 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{cccc}
+ 2 & 1 & -2 & -1 \\
+ 0 & 2 & 0 & 0 \\
+ 0 & 1 & 0 & -1 \\
+ 0 & -5 & 1 & -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{cccc}
+ e^2 & \frac{e^3-3}{e} & \frac{2-e^3}{e} & -\frac{1}{e} \\
+ 0 & e^2 & 0 & 0 \\
+ 0 & \frac{e^3-3}{e} & \frac{2}{e} & -\frac{1}{e} \\
+ 0 & \frac{-1-e^3}{e} & \frac{1}{e} & 0 \\
+\end{array}
+\right)$

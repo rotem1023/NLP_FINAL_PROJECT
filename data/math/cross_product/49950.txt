@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 4 \\
+ 8 \\
+ 9 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 5 \\
+ 2 \\
+ 4 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 14 \\
+ 29 \\
+ -32 \\
+\end{array}
+\right)$

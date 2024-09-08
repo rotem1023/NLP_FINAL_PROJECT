@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{9}{2} \\
+ -\frac{3}{2} \\
+ 5 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{15}{2} \\
+ 3 \\
+ -\frac{1}{2} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{57}{4} \\
+ \frac{141}{4} \\
+ -\frac{9}{4} \\
+\end{array}
+\right)$

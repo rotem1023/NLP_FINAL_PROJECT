@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -9 \\
+ 2 \\
+ -5 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 9 \\
+ -1 \\
+ 10 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 15 \\
+ 45 \\
+ -9 \\
+\end{array}
+\right)$

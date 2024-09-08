@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{15}{4} \\
+ -\frac{37}{4} \\
+ \frac{19}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 0 \\
+ \frac{21}{4} \\
+ \frac{13}{4} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{1279}{16} \\
+ \frac{195}{16} \\
+ -\frac{315}{16} \\
+\end{array}
+\right)$

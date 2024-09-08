@@ -1,0 +1,17 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{11}{9} \\
+ 2 \\
+ -\frac{10}{9} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{11}{\sqrt{545}} \\
+ \frac{18}{\sqrt{545}} \\
+ -2 \sqrt{\frac{5}{109}} \\
+\end{array}
+\right)$

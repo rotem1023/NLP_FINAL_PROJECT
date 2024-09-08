@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{77}{50} \\
+ -\frac{29}{100} \\
+ \frac{17}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{129}{100} \\
+ -\frac{699}{100} \\
+ -\frac{327}{50} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{153279}{2500} \\
+ \frac{4467}{5000} \\
+ \frac{111387}{10000} \\
+\end{array}
+\right)$

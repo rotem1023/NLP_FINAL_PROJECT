@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 0 \\
+ 5 \\
+ -6 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 7 \\
+ -2 \\
+ -9 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -57 \\
+ -42 \\
+ -35 \\
+\end{array}
+\right)$

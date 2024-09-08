@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -2 & -4 & -1 \\
+ 2 & 4 & -1 \\
+ 4 & 2 & 4 \\
+\end{array}
+\right)$.
+Answer:
+$24$

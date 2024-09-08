@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{5}{2} \\
+ -\frac{11}{4} \\
+ \frac{3}{4} \\
+ \frac{9}{4} \\
+ -\frac{1}{2} \\
+ -\frac{1}{2} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{10}{\sqrt{319}} \\
+ -\sqrt{\frac{11}{29}} \\
+ \frac{3}{\sqrt{319}} \\
+ \frac{9}{\sqrt{319}} \\
+ -\frac{2}{\sqrt{319}} \\
+ -\frac{2}{\sqrt{319}} \\
+\end{array}
+\right)$

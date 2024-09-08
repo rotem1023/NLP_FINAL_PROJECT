@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -2 \\
+ 3 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{2}{\sqrt{13}} \\
+ \frac{3}{\sqrt{13}} \\
+\end{array}
+\right)$

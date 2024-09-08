@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{14}{5} \\
+ \frac{29}{10} \\
+ -\frac{23}{10} \\
+ -\frac{4}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -14 \sqrt{\frac{2}{1109}} \\
+ \frac{29}{\sqrt{2218}} \\
+ -\frac{23}{\sqrt{2218}} \\
+ -4 \sqrt{\frac{2}{1109}} \\
+\end{array}
+\right)$

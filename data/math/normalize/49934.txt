@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{37}{16} \\
+ -\frac{45}{16} \\
+ -\frac{7}{16} \\
+ -\frac{45}{16} \\
+ -\frac{19}{16} \\
+ \frac{23}{8} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{37}{\sqrt{7945}} \\
+ -9 \sqrt{\frac{5}{1589}} \\
+ -\sqrt{\frac{7}{1135}} \\
+ -9 \sqrt{\frac{5}{1589}} \\
+ -\frac{19}{\sqrt{7945}} \\
+ \frac{46}{\sqrt{7945}} \\
+\end{array}
+\right)$

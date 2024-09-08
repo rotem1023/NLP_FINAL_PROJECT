@@ -1,0 +1,17 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 2 \\
+ -2 \\
+ -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{1}{\sqrt{3}} \\
+ -\frac{1}{\sqrt{3}} \\
+ -\frac{1}{\sqrt{3}} \\
+\end{array}
+\right)$

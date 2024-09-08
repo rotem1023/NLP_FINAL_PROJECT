@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{26}{3} \\
+ -\frac{4}{3} \\
+ -\frac{7}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{16}{3} \\
+ -5 \\
+ \frac{29}{3} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{221}{9} \\
+ -\frac{866}{9} \\
+ -\frac{326}{9} \\
+\end{array}
+\right)$

@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 0 \\
+ 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ 0 \\
+ 1 \\
+\end{array}
+\right)$

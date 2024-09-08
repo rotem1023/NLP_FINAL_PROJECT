@@ -1,0 +1,12 @@
+Problem:
+Give a list of vectors that forms a basis for the null space of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccccc}
+ 3 & -7 & -8 & 4 & 5 \\
+ -6 & 9 & -3 & 4 & -9 \\
+ 3 & 2 & 0 & 5 & -3 \\
+ 2 & 3 & -1 & 9 & 6 \\
+\end{array}
+\right)$.
+Answer:
+${\{4630.,4917.,-3724.,-3957.,1313.\}}$

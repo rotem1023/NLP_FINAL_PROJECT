@@ -1,0 +1,23 @@
+Problem:
+Find the least squares vector given the matrix
+$\left(
+\begin{array}{cc}
+ -3 & 0 \\
+ -1 & 2 \\
+ 3 & 2 \\
+\end{array}
+\right)$ and the vector
+$\left(
+\begin{array}{c}
+ -2.83 \\
+ -0.1 \\
+ -0.28 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ 0.478 \\
+ -0.334 \\
+\end{array}
+\right)$

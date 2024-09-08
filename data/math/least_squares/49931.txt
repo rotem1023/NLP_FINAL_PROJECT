@@ -1,0 +1,26 @@
+Problem:
+Find the least squares vector given the matrix
+$\left(
+\begin{array}{ccc}
+ 1 & -2 & 2 \\
+ 3 & 2 & 2 \\
+ 2 & 1 & 0 \\
+ 3 & -1 & -2 \\
+\end{array}
+\right)$ and the vector
+$\left(
+\begin{array}{c}
+ 1.43 \\
+ 1.17 \\
+ 0.73 \\
+ 0.1 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ 0.277 \\
+ -0.151 \\
+ 0.396 \\
+\end{array}
+\right)$

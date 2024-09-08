@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{11}{10} \\
+ -\frac{53}{10} \\
+ \frac{57}{10} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{15}{2} \\
+ \frac{9}{2} \\
+ \frac{24}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{5109}{100} \\
+ \frac{3747}{100} \\
+ \frac{447}{10} \\
+\end{array}
+\right)$

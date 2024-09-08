@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{7}{3} \\
+ -\frac{4}{3} \\
+ \frac{4}{3} \\
+ -\frac{1}{6} \\
+ \frac{3}{2} \\
+ -\frac{5}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{14}{\sqrt{431}} \\
+ -\frac{8}{\sqrt{431}} \\
+ \frac{8}{\sqrt{431}} \\
+ -\frac{1}{\sqrt{431}} \\
+ \frac{9}{\sqrt{431}} \\
+ -\frac{5}{\sqrt{431}} \\
+\end{array}
+\right)$

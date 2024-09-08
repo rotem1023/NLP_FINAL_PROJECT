@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -2 \\
+ -1 \\
+ -1 \\
+ 0 \\
+ 3 \\
+ -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{1}{\sqrt{6}} \\
+ -\frac{1}{2 \sqrt{6}} \\
+ -\frac{1}{2 \sqrt{6}} \\
+ 0 \\
+ \frac{\sqrt{\frac{3}{2}}}{2} \\
+ -\frac{\sqrt{\frac{3}{2}}}{2} \\
+\end{array}
+\right)$

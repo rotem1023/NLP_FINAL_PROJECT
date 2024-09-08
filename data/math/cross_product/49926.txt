@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -3 \\
+ -8 \\
+ -9 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -4 \\
+ 0 \\
+ -1 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 8 \\
+ 33 \\
+ -32 \\
+\end{array}
+\right)$

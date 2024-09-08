@@ -1,0 +1,10 @@
+Problem:
+Give a list of vectors that forms a basis for the null space of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{cccc}
+ -10 & 9 & -5 & -8 \\
+ -5 & 5 & 5 & 7 \\
+\end{array}
+\right)$.
+Answer:
+${\{-103.,-110.,0.,5.\}, \{-14.,-15.,1.,0.\}}$

@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -4 \\
+ 4 \\
+ 7 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 4 \\
+ 7 \\
+ -7 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -77 \\
+ 0 \\
+ -44 \\
+\end{array}
+\right)$

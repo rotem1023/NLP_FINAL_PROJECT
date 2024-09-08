@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{37}{7} \\
+ \frac{6}{7} \\
+ -3 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{29}{7} \\
+ \frac{45}{7} \\
+ \frac{17}{7} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{1047}{49} \\
+ -\frac{20}{49} \\
+ \frac{1839}{49} \\
+\end{array}
+\right)$

@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{13}{2} \\
+ \frac{7}{2} \\
+ \frac{3}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{5}{4} \\
+ -\frac{5}{2} \\
+ -\frac{3}{2} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{3}{2} \\
+ \frac{93}{8} \\
+ -\frac{165}{8} \\
+\end{array}
+\right)$

@@ -1,0 +1,19 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{cccc}
+ 1 & 1 & 2 & 1 \\
+ -1 & 3 & 2 & 1 \\
+ 1 & -1 & 0 & -1 \\
+ -1 & 1 & 0 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{cccc}
+ e & e^2-e & e^2-1 & e-1 \\
+ e-e^2 & 2 e^2-e & e^2-1 & e-1 \\
+ e^2-e & e-e^2 & 1 & 1-e \\
+ e-e^2 & e^2-e & 0 & e \\
+\end{array}
+\right)$

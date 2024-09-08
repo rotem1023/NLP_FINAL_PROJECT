@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{13}{3} & 5 \\
+ -\frac{8}{3} & \frac{17}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{19}{18}$

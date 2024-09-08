@@ -1,0 +1,19 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{cccc}
+ 0 & 0 & 0 & 0 \\
+ 0 & 0 & 0 & 0 \\
+ 0 & 0 & 0 & 0 \\
+ 2 & 0 & -4 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{cccc}
+ 1 & 0 & 0 & 0 \\
+ 0 & 1 & 0 & 0 \\
+ 0 & 0 & 1 & 0 \\
+ e^2-1 & 0 & -2 \left(e^2-1\right) & e^2 \\
+\end{array}
+\right)$

@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -9 \\
+ \frac{93}{10} \\
+ -4 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{49}{10} \\
+ -\frac{27}{5} \\
+ -\frac{4}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{726}{25} \\
+ \frac{62}{5} \\
+ \frac{9417}{100} \\
+\end{array}
+\right)$

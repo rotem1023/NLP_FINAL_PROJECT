@@ -1,0 +1,17 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{ccc}
+ 0 & 0 & 0 \\
+ -1 & 1 & 0 \\
+ 0 & 0 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{ccc}
+ 1 & 0 & 0 \\
+ 1-e & e & 0 \\
+ 0 & 0 & e^2 \\
+\end{array}
+\right)$

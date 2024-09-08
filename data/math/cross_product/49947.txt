@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{49}{5} \\
+ -\frac{26}{5} \\
+ \frac{49}{10} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{7}{5} \\
+ -\frac{44}{5} \\
+ -\frac{51}{10} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{1741}{25} \\
+ \frac{1421}{25} \\
+ -\frac{1974}{25} \\
+\end{array}
+\right)$

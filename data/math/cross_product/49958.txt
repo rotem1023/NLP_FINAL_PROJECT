@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{7}{4} \\
+ -\frac{55}{8} \\
+ \frac{17}{4} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{17}{2} \\
+ \frac{1}{2} \\
+ \frac{9}{4} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{563}{32} \\
+ -\frac{515}{16} \\
+ -\frac{949}{16} \\
+\end{array}
+\right)$

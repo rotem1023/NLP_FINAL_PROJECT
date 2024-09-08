@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ 4 & 3 \\
+ -5 & -4 \\
+\end{array}
+\right)$.
+Answer:
+$-1$

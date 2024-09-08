@@ -1,0 +1,11 @@
+Problem:
+Give a list of vectors that forms a basis for the null space of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{ccccc}
+ 0 & 7 & -5 & 1 & -4 \\
+ -4 & -3 & -3 & -4 & 3 \\
+ 1 & 4 & -5 & -5 & 1 \\
+\end{array}
+\right)$.
+Answer:
+${\{-99.,127.,101.,0.,96.\}, \{147.,-143.,-181.,96.,0.\}}$

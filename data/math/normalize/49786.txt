@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{11}{4} \\
+ -\frac{17}{8} \\
+ -\frac{13}{8} \\
+ -\frac{5}{8} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{22}{\sqrt{967}} \\
+ -\frac{17}{\sqrt{967}} \\
+ -\frac{13}{\sqrt{967}} \\
+ -\frac{5}{\sqrt{967}} \\
+\end{array}
+\right)$

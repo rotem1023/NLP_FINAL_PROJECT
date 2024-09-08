@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{3}{4} \\
+ \frac{153}{16} \\
+ -\frac{79}{16} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{41}{16} \\
+ -\frac{41}{16} \\
+ 3 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{4105}{256} \\
+ \frac{2663}{256} \\
+ \frac{5781}{256} \\
+\end{array}
+\right)$

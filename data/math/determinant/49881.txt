@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{49}{10} & \frac{14}{5} \\
+ -\frac{1}{2} & \frac{16}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{357}{25}$

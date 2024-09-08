@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 5 \\
+ -7 \\
+ 2 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -1 \\
+ 3 \\
+ -7 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 43 \\
+ 33 \\
+ 8 \\
+\end{array}
+\right)$

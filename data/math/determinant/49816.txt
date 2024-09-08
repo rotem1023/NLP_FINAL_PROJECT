@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{23}{5} & -\frac{22}{5} \\
+ -1 & -\frac{12}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{166}{25}$

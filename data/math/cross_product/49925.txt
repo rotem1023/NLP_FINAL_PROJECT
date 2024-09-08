@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -3 \\
+ -6 \\
+ 2 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -9 \\
+ 5 \\
+ 5 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -40 \\
+ -3 \\
+ -69 \\
+\end{array}
+\right)$

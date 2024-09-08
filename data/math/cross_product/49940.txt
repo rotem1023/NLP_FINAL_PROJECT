@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -3 \\
+ \frac{13}{3} \\
+ \frac{5}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{17}{3} \\
+ \frac{11}{3} \\
+ -\frac{22}{3} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{341}{9} \\
+ -\frac{113}{9} \\
+ -\frac{320}{9} \\
+\end{array}
+\right)$

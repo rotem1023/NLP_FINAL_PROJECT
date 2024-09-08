@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{81}{16} \\
+ -\frac{77}{16} \\
+ \frac{113}{16} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{145}{16} \\
+ \frac{151}{16} \\
+ \frac{59}{16} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{10803}{128} \\
+ -\frac{5291}{64} \\
+ \frac{533}{128} \\
+\end{array}
+\right)$

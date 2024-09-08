@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -4 \\
+ -4 \\
+ \frac{11}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{1}{2} \\
+ -\frac{3}{2} \\
+ 5 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{47}{4} \\
+ \frac{69}{4} \\
+ 4 \\
+\end{array}
+\right)$

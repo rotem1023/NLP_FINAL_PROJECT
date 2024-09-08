@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ \frac{22}{5} & \frac{21}{5} & -\frac{11}{5} \\
+ \frac{27}{10} & -\frac{9}{10} & \frac{21}{10} \\
+ -\frac{23}{10} & \frac{17}{5} & -\frac{23}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{759}{250}$

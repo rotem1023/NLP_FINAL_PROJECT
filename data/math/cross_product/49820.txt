@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{11}{2} \\
+ \frac{9}{2} \\
+ -3 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{13}{2} \\
+ \frac{17}{2} \\
+ \frac{7}{2} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{165}{4} \\
+ -\frac{155}{4} \\
+ \frac{35}{2} \\
+\end{array}
+\right)$

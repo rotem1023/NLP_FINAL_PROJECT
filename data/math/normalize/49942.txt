@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -1 \\
+ \frac{11}{9} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{9}{\sqrt{202}} \\
+ \frac{11}{\sqrt{202}} \\
+\end{array}
+\right)$

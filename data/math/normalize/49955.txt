@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 2 \\
+ -\frac{3}{2} \\
+ \frac{5}{4} \\
+ \frac{5}{8} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{16}{5 \sqrt{21}} \\
+ -\frac{4 \sqrt{\frac{3}{7}}}{5} \\
+ \frac{2}{\sqrt{21}} \\
+ \frac{1}{\sqrt{21}} \\
+\end{array}
+\right)$

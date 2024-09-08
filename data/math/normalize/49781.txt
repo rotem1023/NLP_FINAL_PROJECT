@@ -1,0 +1,21 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{6}{5} \\
+ -1 \\
+ \frac{7}{5} \\
+ \frac{3}{5} \\
+ -\frac{7}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \sqrt{\frac{3}{14}} \\
+ -\frac{5}{2 \sqrt{42}} \\
+ \frac{\sqrt{\frac{7}{6}}}{2} \\
+ \frac{\sqrt{\frac{3}{14}}}{2} \\
+ -\frac{\sqrt{\frac{7}{6}}}{2} \\
+\end{array}
+\right)$

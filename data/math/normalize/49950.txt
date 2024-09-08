@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{9}{7} \\
+ -\frac{17}{7} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{9}{\sqrt{370}} \\
+ -\frac{17}{\sqrt{370}} \\
+\end{array}
+\right)$

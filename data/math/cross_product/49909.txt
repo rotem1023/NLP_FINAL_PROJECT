@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -1 \\
+ -9 \\
+ 8 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -4 \\
+ 5 \\
+ -9 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 41 \\
+ -41 \\
+ -41 \\
+\end{array}
+\right)$

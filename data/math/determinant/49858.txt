@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{11}{5} & \frac{7}{10} \\
+ \frac{17}{10} & \frac{5}{2} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{669}{100}$

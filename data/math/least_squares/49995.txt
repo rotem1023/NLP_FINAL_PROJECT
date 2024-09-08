@@ -1,0 +1,32 @@
+Problem:
+Find the least squares vector given the matrix
+$\left(
+\begin{array}{ccccc}
+ -2 & 1 & 1 & -2 & -1 \\
+ 1 & 1 & 1 & 2 & 0 \\
+ 0 & 2 & 1 & 2 & 3 \\
+ 1 & 2 & 0 & -3 & 3 \\
+ 0 & -1 & 2 & -2 & 3 \\
+ 0 & 1 & 3 & 0 & -2 \\
+\end{array}
+\right)$ and the vector
+$\left(
+\begin{array}{c}
+ -1.35 \\
+ -0.61 \\
+ -0.14 \\
+ 2.82 \\
+ -1.33 \\
+ 2.53 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ 1.288 \\
+ 0.693 \\
+ 0.037 \\
+ -0.454 \\
+ -0.422 \\
+\end{array}
+\right)$

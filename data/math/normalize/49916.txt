@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{47}{16} \\
+ -\frac{7}{16} \\
+ -3 \\
+ \frac{19}{8} \\
+ -\frac{11}{16} \\
+ \frac{39}{16} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{47}{4 \sqrt{478}} \\
+ -\frac{7}{4 \sqrt{478}} \\
+ -6 \sqrt{\frac{2}{239}} \\
+ \frac{19}{2 \sqrt{478}} \\
+ -\frac{11}{4 \sqrt{478}} \\
+ \frac{39}{4 \sqrt{478}} \\
+\end{array}
+\right)$

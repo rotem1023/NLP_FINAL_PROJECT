@@ -1,0 +1,17 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{15}{7} \\
+ -3 \\
+ -\frac{4}{7} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{15}{\sqrt{682}} \\
+ -\frac{21}{\sqrt{682}} \\
+ -2 \sqrt{\frac{2}{341}} \\
+\end{array}
+\right)$

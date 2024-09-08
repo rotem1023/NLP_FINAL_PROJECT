@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{1}{2} \\
+ \frac{7}{4} \\
+ \frac{5}{2} \\
+ \frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\sqrt{\frac{2}{77}} \\
+ \sqrt{\frac{7}{22}} \\
+ 5 \sqrt{\frac{2}{77}} \\
+ \frac{1}{\sqrt{154}} \\
+\end{array}
+\right)$

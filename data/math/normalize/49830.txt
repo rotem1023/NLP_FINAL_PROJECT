@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 2 \\
+ 3 \\
+ -3 \\
+ 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \sqrt{\frac{2}{11}} \\
+ \frac{3}{\sqrt{22}} \\
+ -\frac{3}{\sqrt{22}} \\
+ 0 \\
+\end{array}
+\right)$

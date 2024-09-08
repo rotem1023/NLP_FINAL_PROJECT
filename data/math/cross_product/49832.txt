@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -6 \\
+ -\frac{49}{5} \\
+ -\frac{31}{5} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{49}{5} \\
+ \frac{7}{5} \\
+ \frac{12}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{371}{25} \\
+ \frac{1879}{25} \\
+ -\frac{2611}{25} \\
+\end{array}
+\right)$

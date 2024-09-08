@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{49}{8} \\
+ -\frac{7}{2} \\
+ -\frac{13}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{11}{4} \\
+ -\frac{19}{8} \\
+ -\frac{13}{8} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{39}{4} \\
+ -\frac{1781}{64} \\
+ \frac{1547}{64} \\
+\end{array}
+\right)$

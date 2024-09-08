@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 2 \\
+ 3 \\
+ 6 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -3 \\
+ 5 \\
+ 2 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -24 \\
+ -22 \\
+ 19 \\
+\end{array}
+\right)$

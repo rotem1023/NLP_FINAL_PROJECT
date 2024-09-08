@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{12}{5} & \frac{9}{5} \\
+ \frac{19}{5} & -\frac{9}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{63}{25}$

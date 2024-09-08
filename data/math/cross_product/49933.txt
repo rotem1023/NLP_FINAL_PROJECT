@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{17}{5} \\
+ \frac{29}{5} \\
+ -\frac{6}{5} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{41}{5} \\
+ -\frac{16}{5} \\
+ -\frac{1}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -5 \\
+ -\frac{229}{25} \\
+ -\frac{1461}{25} \\
+\end{array}
+\right)$

@@ -1,0 +1,11 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{ccc}
+ -\frac{17}{10} & -\frac{17}{5} & \frac{11}{5} \\
+ 1 & 2 & \frac{41}{10} \\
+ \frac{7}{2} & \frac{6}{5} & -\frac{37}{10} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{26593}{500}$

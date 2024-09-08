@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{31}{5} \\
+ -\frac{2}{5} \\
+ 9 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 0 \\
+ -\frac{17}{5} \\
+ \frac{8}{5} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{749}{25} \\
+ \frac{248}{25} \\
+ \frac{527}{25} \\
+\end{array}
+\right)$

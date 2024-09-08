@@ -1,0 +1,17 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{ccc}
+ 1 & -2 & 1 \\
+ 1 & -2 & 1 \\
+ 0 & -1 & 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{ccc}
+ \frac{3}{2} & -\frac{3}{2} & 1 \\
+ \frac{1}{2} & -\frac{1}{2} & 1 \\
+ -\frac{1}{2} & -\frac{1}{2} & 2 \\
+\end{array}
+\right)$

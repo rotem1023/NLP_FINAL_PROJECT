@@ -1,0 +1,17 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{17}{8} \\
+ -\frac{9}{4} \\
+ \frac{1}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{17}{\sqrt{617}} \\
+ -\frac{18}{\sqrt{617}} \\
+ \frac{2}{\sqrt{617}} \\
+\end{array}
+\right)$

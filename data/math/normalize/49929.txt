@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -3 \\
+ -3 \\
+ 2 \\
+ 2 \\
+ -1 \\
+ 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{3}{2 \sqrt{7}} \\
+ -\frac{3}{2 \sqrt{7}} \\
+ \frac{1}{\sqrt{7}} \\
+ \frac{1}{\sqrt{7}} \\
+ -\frac{1}{2 \sqrt{7}} \\
+ \frac{1}{2 \sqrt{7}} \\
+\end{array}
+\right)$

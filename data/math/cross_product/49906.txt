@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{39}{4} \\
+ -\frac{5}{2} \\
+ \frac{15}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{21}{4} \\
+ -\frac{15}{2} \\
+ \frac{21}{4} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{345}{8} \\
+ \frac{1449}{16} \\
+ \frac{345}{4} \\
+\end{array}
+\right)$

@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 7 \\
+ -8 \\
+ 3 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -9 \\
+ -4 \\
+ -2 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ 28 \\
+ -13 \\
+ -100 \\
+\end{array}
+\right)$

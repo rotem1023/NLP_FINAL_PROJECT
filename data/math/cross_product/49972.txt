@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{22}{3} \\
+ \frac{22}{3} \\
+ \frac{23}{9} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{47}{9} \\
+ -\frac{11}{3} \\
+ \frac{37}{9} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{1067}{27} \\
+ \frac{3523}{81} \\
+ -\frac{308}{27} \\
+\end{array}
+\right)$

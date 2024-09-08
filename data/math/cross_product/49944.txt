@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{121}{16} \\
+ \frac{37}{4} \\
+ \frac{79}{8} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 1 \\
+ -\frac{53}{16} \\
+ \frac{39}{8} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{9959}{128} \\
+ -\frac{3455}{128} \\
+ -\frac{8781}{256} \\
+\end{array}
+\right)$

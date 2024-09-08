@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -7 \\
+ -5 \\
+ -1 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 9 \\
+ -1 \\
+ 5 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -26 \\
+ 26 \\
+ 52 \\
+\end{array}
+\right)$

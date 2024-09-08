@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{17}{16} \\
+ 2 \\
+ \frac{45}{16} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{31}{16} \\
+ -\frac{41}{8} \\
+ 3 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{2613}{128} \\
+ \frac{2211}{256} \\
+ \frac{201}{128} \\
+\end{array}
+\right)$

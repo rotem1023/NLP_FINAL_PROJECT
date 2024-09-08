@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{16}{7} \\
+ -\frac{10}{7} \\
+ -\frac{1}{7} \\
+ -\frac{13}{7} \\
+ \frac{2}{7} \\
+ \frac{18}{7} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -8 \sqrt{\frac{2}{427}} \\
+ -5 \sqrt{\frac{2}{427}} \\
+ -\frac{1}{\sqrt{854}} \\
+ -\frac{13}{\sqrt{854}} \\
+ \sqrt{\frac{2}{427}} \\
+ 9 \sqrt{\frac{2}{427}} \\
+\end{array}
+\right)$

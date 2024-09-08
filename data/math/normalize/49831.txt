@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{16}{9} \\
+ \frac{25}{9} \\
+ \frac{17}{9} \\
+ \frac{2}{9} \\
+ -\frac{2}{9} \\
+ \frac{5}{9} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{16}{\sqrt{1203}} \\
+ \frac{25}{\sqrt{1203}} \\
+ \frac{17}{\sqrt{1203}} \\
+ \frac{2}{\sqrt{1203}} \\
+ -\frac{2}{\sqrt{1203}} \\
+ \frac{5}{\sqrt{1203}} \\
+\end{array}
+\right)$

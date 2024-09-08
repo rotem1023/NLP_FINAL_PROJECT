@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{6}{5} \\
+ -\frac{11}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{6}{\sqrt{157}} \\
+ -\frac{11}{\sqrt{157}} \\
+\end{array}
+\right)$

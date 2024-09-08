@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{19}{16} \\
+ \frac{17}{8} \\
+ -\frac{5}{16} \\
+ \frac{41}{16} \\
+ -\frac{15}{8} \\
+ \frac{27}{16} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{19}{2 \sqrt{1213}} \\
+ \frac{17}{\sqrt{1213}} \\
+ -\frac{5}{2 \sqrt{1213}} \\
+ \frac{41}{2 \sqrt{1213}} \\
+ -\frac{15}{\sqrt{1213}} \\
+ \frac{27}{2 \sqrt{1213}} \\
+\end{array}
+\right)$

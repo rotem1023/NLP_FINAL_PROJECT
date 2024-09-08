@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{9}{8} \\
+ -3 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{3}{\sqrt{73}} \\
+ -\frac{8}{\sqrt{73}} \\
+\end{array}
+\right)$

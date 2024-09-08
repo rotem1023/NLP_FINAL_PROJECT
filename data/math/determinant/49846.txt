@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{31}{10} & -\frac{29}{10} \\
+ \frac{9}{10} & \frac{17}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{793}{100}$

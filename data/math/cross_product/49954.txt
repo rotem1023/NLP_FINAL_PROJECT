@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{11}{2} \\
+ \frac{21}{4} \\
+ -\frac{35}{4} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{5}{2} \\
+ -\frac{31}{4} \\
+ 7 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{497}{16} \\
+ \frac{133}{8} \\
+ \frac{59}{2} \\
+\end{array}
+\right)$

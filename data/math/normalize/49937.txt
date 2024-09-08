@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 2 \\
+ 2 \\
+ \frac{8}{3} \\
+ -\frac{1}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{6}{\sqrt{137}} \\
+ \frac{6}{\sqrt{137}} \\
+ \frac{8}{\sqrt{137}} \\
+ -\frac{1}{\sqrt{137}} \\
+\end{array}
+\right)$

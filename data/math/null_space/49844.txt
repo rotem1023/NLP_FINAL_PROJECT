@@ -1,0 +1,11 @@
+Problem:
+Give a list of vectors that forms a basis for the null space of the following matrix (round your answer to three decimal places):
+$\left(
+\begin{array}{cccc}
+ 0 & 10 & 3 & -2 \\
+ 10 & -4 & 6 & -6 \\
+ -7 & 4 & -8 & 2 \\
+\end{array}
+\right)$.
+Answer:
+${\{212.,71.,-98.,208.\}}$

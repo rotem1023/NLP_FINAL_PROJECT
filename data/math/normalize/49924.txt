@@ -1,0 +1,21 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{17}{16} \\
+ -\frac{47}{16} \\
+ -\frac{45}{16} \\
+ -\frac{1}{2} \\
+ -\frac{47}{16} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{17}{2 \sqrt{1699}} \\
+ -\frac{47}{2 \sqrt{1699}} \\
+ -\frac{45}{2 \sqrt{1699}} \\
+ -\frac{4}{\sqrt{1699}} \\
+ -\frac{47}{2 \sqrt{1699}} \\
+\end{array}
+\right)$

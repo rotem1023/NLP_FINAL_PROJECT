@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{15}{8} \\
+ \frac{7}{4} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{15}{\sqrt{421}} \\
+ \frac{14}{\sqrt{421}} \\
+\end{array}
+\right)$

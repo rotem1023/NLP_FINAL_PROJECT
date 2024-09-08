@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -\frac{14}{5} \\
+ -\frac{29}{10} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{28}{5 \sqrt{65}} \\
+ -\frac{29}{5 \sqrt{65}} \\
+\end{array}
+\right)$

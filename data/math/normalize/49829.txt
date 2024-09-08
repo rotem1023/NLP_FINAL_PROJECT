@@ -1,0 +1,21 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ -1 \\
+ -\frac{5}{3} \\
+ \frac{1}{3} \\
+ -\frac{4}{3} \\
+ -\frac{11}{6} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{6}{5 \sqrt{13}} \\
+ -\frac{2}{\sqrt{13}} \\
+ \frac{2}{5 \sqrt{13}} \\
+ -\frac{8}{5 \sqrt{13}} \\
+ -\frac{11}{5 \sqrt{13}} \\
+\end{array}
+\right)$

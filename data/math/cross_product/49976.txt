@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{35}{8} \\
+ -\frac{7}{16} \\
+ -\frac{23}{8} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{87}{16} \\
+ -\frac{67}{8} \\
+ \frac{7}{16} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{6213}{256} \\
+ -\frac{439}{32} \\
+ \frac{9989}{256} \\
+\end{array}
+\right)$

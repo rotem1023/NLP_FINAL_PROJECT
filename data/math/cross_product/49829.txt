@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{23}{5} \\
+ -\frac{99}{10} \\
+ \frac{11}{5} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{19}{2} \\
+ \frac{5}{2} \\
+ \frac{73}{10} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{7777}{100} \\
+ \frac{1362}{25} \\
+ \frac{1651}{20} \\
+\end{array}
+\right)$

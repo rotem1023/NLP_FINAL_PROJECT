@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ \frac{41}{10} & \frac{9}{2} \\
+ \frac{16}{5} & \frac{14}{5} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{73}{25}$

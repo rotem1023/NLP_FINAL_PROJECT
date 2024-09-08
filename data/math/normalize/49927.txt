@@ -1,0 +1,17 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{4}{5} \\
+ \frac{13}{5} \\
+ \frac{8}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{4}{\sqrt{249}} \\
+ \frac{13}{\sqrt{249}} \\
+ \frac{8}{\sqrt{249}} \\
+\end{array}
+\right)$

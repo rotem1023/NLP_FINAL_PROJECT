@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{217}{50} \\
+ \frac{77}{100} \\
+ \frac{224}{25} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{119}{20} \\
+ \frac{246}{25} \\
+ -\frac{13}{50} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{441833}{5000} \\
+ -\frac{136101}{2500} \\
+ -\frac{381241}{10000} \\
+\end{array}
+\right)$

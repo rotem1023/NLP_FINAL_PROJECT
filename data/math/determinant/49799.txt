@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ 0 & -\frac{1}{2} \\
+ \frac{11}{6} & \frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{11}{12}$

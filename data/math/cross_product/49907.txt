@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ -\frac{37}{16} \\
+ -\frac{53}{16} \\
+ -\frac{9}{8} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -\frac{69}{16} \\
+ -\frac{131}{16} \\
+ \frac{17}{2} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{4783}{128} \\
+ \frac{3137}{128} \\
+ \frac{595}{128} \\
+\end{array}
+\right)$

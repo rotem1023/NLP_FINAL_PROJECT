@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -\frac{13}{3} & -\frac{14}{3} \\
+ -1 & -\frac{7}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\frac{49}{9}$

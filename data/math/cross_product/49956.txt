@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 7 \\
+ 0 \\
+ -\frac{9}{2} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ -7 \\
+ -3 \\
+ -\frac{7}{2} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{27}{2} \\
+ 56 \\
+ -21 \\
+\end{array}
+\right)$

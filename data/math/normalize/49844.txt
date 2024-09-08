@@ -1,0 +1,19 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{7}{9} \\
+ -\frac{8}{9} \\
+ -\frac{14}{9} \\
+ 0 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{7}{\sqrt{309}} \\
+ -\frac{8}{\sqrt{309}} \\
+ -\frac{14}{\sqrt{309}} \\
+ 0 \\
+\end{array}
+\right)$

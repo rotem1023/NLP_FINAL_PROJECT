@@ -1,0 +1,25 @@
+Problem:
+Find the least squares vector given the matrix
+$\left(
+\begin{array}{cc}
+ 0 & 1 \\
+ -1 & -1 \\
+ -3 & 3 \\
+ 0 & 3 \\
+\end{array}
+\right)$ and the vector
+$\left(
+\begin{array}{c}
+ -0.97 \\
+ -2.8 \\
+ 2.25 \\
+ -0.05 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ -0.085 \\
+ 0.388 \\
+\end{array}
+\right)$

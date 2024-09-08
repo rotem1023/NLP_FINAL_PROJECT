@@ -1,0 +1,10 @@
+Problem:
+Find the determinant of the matrix
+$\left(
+\begin{array}{cc}
+ -1 & \frac{1}{2} \\
+ \frac{7}{2} & \frac{9}{2} \\
+\end{array}
+\right)$.
+Answer:
+$-\frac{25}{4}$

@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{5}{7} \\
+ \frac{15}{7} \\
+ -3 \\
+ \frac{15}{7} \\
+ -\frac{2}{7} \\
+ -\frac{6}{7} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{5}{2 \sqrt{239}} \\
+ \frac{15}{2 \sqrt{239}} \\
+ -\frac{21}{2 \sqrt{239}} \\
+ \frac{15}{2 \sqrt{239}} \\
+ -\frac{1}{\sqrt{239}} \\
+ -\frac{3}{\sqrt{239}} \\
+\end{array}
+\right)$

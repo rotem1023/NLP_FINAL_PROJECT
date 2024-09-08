@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ \frac{23}{9} \\
+ -\frac{32}{9} \\
+ -\frac{10}{3} \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ \frac{2}{3} \\
+ -\frac{79}{9} \\
+ \frac{23}{9} \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -\frac{3106}{81} \\
+ -\frac{709}{81} \\
+ -\frac{1625}{81} \\
+\end{array}
+\right)$

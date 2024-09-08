@@ -1,0 +1,24 @@
+Problem:
+Find the cross product of the following vectors:
+$\left(
+\begin{array}{c}
+ 0 \\
+ 4 \\
+ 0 \\
+\end{array}
+\right)$ and
+$\left(
+\begin{array}{c}
+ 3 \\
+ -10 \\
+ -3 \\
+\end{array}
+\right)$
+Answer:
+$\left(
+\begin{array}{c}
+ -12 \\
+ 0 \\
+ -12 \\
+\end{array}
+\right)$

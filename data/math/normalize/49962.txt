@@ -1,0 +1,17 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 0 \\
+ 1 \\
+ -2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ 0 \\
+ \frac{1}{\sqrt{5}} \\
+ -\frac{2}{\sqrt{5}} \\
+\end{array}
+\right)$

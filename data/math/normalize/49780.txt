@@ -1,0 +1,23 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ 3 \\
+ -2 \\
+ 3 \\
+ 3 \\
+ -1 \\
+ 1 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \sqrt{\frac{3}{11}} \\
+ -\frac{2}{\sqrt{33}} \\
+ \sqrt{\frac{3}{11}} \\
+ \sqrt{\frac{3}{11}} \\
+ -\frac{1}{\sqrt{33}} \\
+ \frac{1}{\sqrt{33}} \\
+\end{array}
+\right)$

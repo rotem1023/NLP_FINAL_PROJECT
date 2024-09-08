@@ -1,0 +1,19 @@
+Problem:
+Compute
+$e^\left(
+\begin{array}{cccc}
+ 1 & 2 & -1 & 0 \\
+ 0 & -1 & 1 & 0 \\
+ 0 & 0 & -2 & 0 \\
+ 1 & 1 & 0 & 2 \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{cccc}
+ e & e-\frac{1}{e} & \frac{1}{e^2}-\frac{1}{e} & 0 \\
+ 0 & \frac{1}{e} & \frac{1}{e}-\frac{1}{e^2} & 0 \\
+ 0 & 0 & \frac{1}{e^2} & 0 \\
+ e^2-e & e^2-e & 0 & e^2 \\
+\end{array}
+\right)$

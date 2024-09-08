@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{8}{5} \\
+ \frac{2}{5} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{4}{\sqrt{17}} \\
+ \frac{1}{\sqrt{17}} \\
+\end{array}
+\right)$

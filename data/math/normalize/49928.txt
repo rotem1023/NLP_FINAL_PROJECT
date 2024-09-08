@@ -1,0 +1,15 @@
+Problem:
+Normalize the following vector:
+$\left(
+\begin{array}{c}
+ \frac{17}{6} \\
+ -\frac{8}{3} \\
+\end{array}
+\right)$.
+Answer:
+$\left(
+\begin{array}{c}
+ \frac{17}{\sqrt{545}} \\
+ -\frac{16}{\sqrt{545}} \\
+\end{array}
+\right)$
