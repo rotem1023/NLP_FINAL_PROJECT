@@ -2,7 +2,7 @@ from load_data import load_task, TaskName
 from run_queries import run_task_queries
 
 if __name__ == "__main__":
-    task = TaskName.summaries_topics
+    task = TaskName.MMLU
     # connect to chat GPT api
 
     # load task data

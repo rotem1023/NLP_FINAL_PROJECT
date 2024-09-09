@@ -9,6 +9,7 @@ class TaskName(Enum):
     summaries_topics = "summaries_topics"
     math = "math"
     sentiment_analysis = "sentiment_analysis"
+    MMLU = "MMLU" # Multidisciplinary Multiple Choice, address: https://www.kaggle.com/datasets/peiyuanliu2001/mmlu-dataset?select=train.csv
 
 
 def load_prompts():
@@ -32,6 +33,8 @@ def load_task(task_name):
         return _load_math()
     if task_name == TaskName.sentiment_analysis:
         return _load_sentiment_analysis()
+    if task_name == TaskName.MMLU:
+        return _load_mmlu()
     raise RuntimeError("Unrecognized task")
 
 
@@ -113,3 +116,23 @@ def _read_and_split_file(file_path):
         return problem, solution
     else:
         return None, None
+
+
+def _load_mmlu():
+    data_dir = _get_data_dir()
+    table = pd.read_csv(f"{data_dir}\\MMLU.csv")
+    expected_responses =  list(table['answer'])
+    table['queries'] = table.apply(_create_mmlu_prompt, axis=1)
+    queries = list(table['queries'])
+    return queries, expected_responses
+
+
+def _create_mmlu_prompt(row):
+    prompt= row['prompt']
+    answer_a = row['A']
+    answer_b = row['B']
+    answer_c = row['C']
+    answer_d = row['D']
+    output = f"what is the best possible answer for this question:" \
+             f" {prompt}\n (A) {answer_b}\n (B) {answer_b}\n (C) {answer_c}\n (D) {answer_d}\n"
+    return output

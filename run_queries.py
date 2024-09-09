@@ -37,6 +37,9 @@ def _get_query(prompt, original_query, task_name):
         output = f"{prompt_with_query} Please provide the longest summary possible"
     if task_name == TaskName.math:
         output = f"{prompt_with_query} Write minimum words possible"
+    if task_name == TaskName.MMLU: # create the instruction while loading the data
+        output = f"{prompt_with_query} Please return the answer one of the following responses: A, B, C, D. " \
+                 f"The response should contains one character"
     return output
 
 def _get_task_prompt_dir(task_name, prompt_level):
