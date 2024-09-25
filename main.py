@@ -2,7 +2,7 @@ from load_data import load_task, TaskName
 from run_queries import run_task_queries
 
 if __name__ == "__main__":
-    task = TaskName.MMLU
+    task = TaskName.sentiment_analysis
 
     # load task data
     queries, expected_responses = load_task(task)
