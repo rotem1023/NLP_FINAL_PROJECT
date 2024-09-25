@@ -1,31 +1,38 @@
 from load_data import load_prompts, TaskName
 import pandas as pd
 import os
+from gpt_client import query_chatgpt
 
 
 
-def run_task_queries(gpt_client, task_name, queries, expected_responses):
+def run_task_queries(task_name, queries, expected_responses):
     prompts = load_prompts()
     for level in prompts:
         level_prompts = prompts[level]
         for i in range(len(level_prompts)):
             prompt = level_prompts[i]
-            responses = _get_gpt_response_for_prompt(gpt_client, prompt, queries, task_name)
+            responses = _get_gpt_response_for_prompt(prompt, queries, task_name)
             # save responses to a file
             dir_to_save = _get_task_prompt_dir(task_name, level)
-            table = pd.DataFrame({"prompt": [prompt for i in range(len(queries))], "queries": queries, "responses": [i for i in range(len(queries))]})
+            table = pd.DataFrame({"prompt": [prompt for i in range(len(queries))], "queries": queries, "responses": responses})
             if expected_responses is not None:
                 table['expected_responses'] = expected_responses
             table.to_csv(f"{dir_to_save}/{i}.csv")
 
 
-def _get_gpt_response_for_prompt(gpt_client, prompt, queries, task_name):
+def _get_gpt_response_for_prompt(prompt, queries, task_name):
     output = []
     for i in range(len(queries)):
         query = _get_query(prompt, queries[i], task_name)
         # run gpt_api
+        try:
+            response = query_chatgpt(query)
+        except Exception as e:
+            print(f"Error: got exception for the following query: {query} cause: {e}")
+            response = "Unable to get query response"
         if i%10 == 0:
             print(f"Finished {i} queries for prompt: {prompt} in task: {task_name.value}")
+        output.append(response)
     return output
 
 
@@ -36,7 +43,7 @@ def _get_query(prompt, original_query, task_name):
     if task_name == TaskName.summaries_topics:
         output = f"{prompt_with_query} Please provide the longest summary possible"
     if task_name == TaskName.math:
-        output = f"{prompt_with_query} Write minimum words possible"
+        output = f"{prompt_with_query} Write just the final answer"
     if task_name == TaskName.MMLU: # create the instruction while loading the data
         output = f"{prompt_with_query} Please return the answer one of the following responses: A, B, C, D. " \
                  f"The response should contains one character"
