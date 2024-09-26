@@ -10,7 +10,7 @@ class TaskName(Enum):
     math = "math"
     sentiment_analysis = "sentiment_analysis"
     MMLU = "MMLU" # Multidisciplinary Multiple Choice, address: https://www.kaggle.com/datasets/peiyuanliu2001/mmlu-dataset?select=train.csv
-
+    next_word = "next_word" # https://www.kaggle.com/datasets/moustacheman/next-word-prediction-dataset
 
 def load_prompts():
     output = {}
@@ -35,6 +35,8 @@ def load_task(task_name):
         return _load_sentiment_analysis()
     if task_name == TaskName.MMLU:
         return _load_mmlu()
+    if task_name == TaskName.next_word:
+        return _load_next_word()
     raise RuntimeError("Unrecognized task")
 
 
@@ -121,7 +123,7 @@ def _read_and_split_file(file_path):
 def _load_mmlu():
     data_dir = _get_data_dir()
     table = pd.read_csv(f"{data_dir}\\MMLU.csv")
-    expected_responses =  list(table['answer'])
+    expected_responses = list(table['answer'])
     table['queries'] = table.apply(_create_mmlu_prompt, axis=1)
     queries = list(table['queries'])
     return queries, expected_responses
@@ -134,5 +136,22 @@ def _create_mmlu_prompt(row):
     answer_c = row['C']
     answer_d = row['D']
     output = f"what is the best possible answer for this question:" \
-             f" {prompt}\n (A) {answer_b}\n (B) {answer_b}\n (C) {answer_c}\n (D) {answer_d}\n"
+             f" {prompt}\n (A) {answer_a}\n (B) {answer_b}\n (C) {answer_c}\n (D) {answer_d}\n"
     return output
+
+
+def _load_next_word():
+    data_dir = _get_data_dir()
+    table = pd.read_csv(f"{data_dir}\\predict_next_word.csv")
+    queries = []
+    expected_responses = []
+    # Iterate over each row in the DataFrame
+    for index, row in table.iterrows():
+        # Assuming the columns are named 'text' for the sentence and 'response' for the response
+        input = row['Quotes']
+        lst = input.rsplit(" ", 1)
+        queries.append(lst[0])
+        expected_responses.append(lst[1][:-1])
+    return queries, expected_responses
+
+

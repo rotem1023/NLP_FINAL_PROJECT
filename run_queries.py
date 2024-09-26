@@ -47,6 +47,8 @@ def _get_query(prompt, original_query, task_name):
     if task_name == TaskName.MMLU: # create the instruction while loading the data
         output = f"{prompt_with_query} Please return the answer one of the following responses: A, B, C, D. " \
                  f"The response should contains one character"
+    if task_name == TaskName.next_word:
+        output = f"{prompt_with_query}... Complete the sentence with one word"
     return output
 
 def _get_task_prompt_dir(task_name, prompt_level):
