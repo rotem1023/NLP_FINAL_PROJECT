@@ -93,16 +93,13 @@ def _load_math():
         dir_files = os.listdir(os.path.join(data_dir,dir))
         files = [f for f in dir_files if os.path.isfile(os.path.join(dir_path, f))]
         files.sort()
-        # TODO: change to 100
-        for i in range(10):
+        for i in range(100):
             cur_file = files[i]
             query, expected_res = _read_and_split_file(os.path.join(dir_path, cur_file))
             if query is None or expected_res is None:
                 raise RuntimeError(f"Wrong format file: {cur_file}")
             output_responses.append(expected_res)
             output_queries.append(query)
-        # TODO: remove
-        break
     return output_queries, output_responses
 
 
