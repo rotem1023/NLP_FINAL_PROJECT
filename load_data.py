@@ -6,11 +6,13 @@ import tarfile
 
 
 class TaskName(Enum):
-    summaries_topics = "summaries_topics"
+    summaries_topics = "summaries_topics" # https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset?resource=download
     math = "math"
     sentiment_analysis = "sentiment_analysis"
     MMLU = "MMLU" # Multidisciplinary Multiple Choice, address: https://www.kaggle.com/datasets/peiyuanliu2001/mmlu-dataset?select=train.csv
     next_word = "next_word" # https://www.kaggle.com/datasets/moustacheman/next-word-prediction-dataset
+    next_word_text = "next_word_from_text" # https://www.kaggle.com/datasets/ronikdedhia/next-word-prediction
+    generated_text = "generated_text"
 
 def load_prompts():
     output = {}
@@ -37,6 +39,10 @@ def load_task(task_name):
         return _load_mmlu()
     if task_name == TaskName.next_word:
         return _load_next_word()
+    if task_name == TaskName.next_word_text:
+        return _load_next_word_from_text()
+    if task_name == TaskName.generated_text:
+        return _load_generated_text()
     raise RuntimeError("Unrecognized task")
 
 
@@ -155,3 +161,30 @@ def _load_next_word():
     return queries, expected_responses
 
 
+
+def _load_next_word_from_text():
+    data_dir = _get_data_dir()
+    with open(f'{data_dir}/predict_next_word_from_text.txt', 'r', encoding='utf-8') as file:
+        data = file.read()
+    return  _create_queries_and_exp_responses_from_text(data)
+
+def _create_queries_and_exp_responses_from_text(data):
+    data = data.replace('\n', '')
+    data_lst = data.split('.')
+    queries = []
+    expected_responses = []
+    for i in range(len(data_lst)):
+        if len(queries) >= 1000:
+            break
+        split_sentence = data_lst[i].split()
+        if (len(split_sentence) <2):
+            continue
+        expected_responses.append(split_sentence[-1].strip())
+        queries.append(' '.join(split_sentence[0:-1]))
+    return queries, expected_responses
+
+def _load_generated_text():
+    data_dir = _get_data_dir()
+    with open(f'{data_dir}/generated_text.txt') as file:
+        data = file.read()
+    return _create_queries_and_exp_responses_from_text(data)

@@ -436,7 +436,7 @@
  (B) cows
  (C) lynx
  (D) rabbits
-",Unable to get query response,C
+",C,C
 73,Answer this question rapidly,"what is the best possible answer for this question: Sound will not travel in a
  (A) solid
  (B) liquid
@@ -5682,7 +5682,7 @@ A",D
  (B) shiny glass
  (C) lasers
  (D) people
-",Unable to get query response,B
+",B,B
 947,Answer this question rapidly,"what is the best possible answer for this question: By picking up polypropylene we can make our ecosystem
  (A) ugly
  (B) worse
@@ -5814,7 +5814,7 @@ A",D
  (B) happily
  (C) briskly
  (D) steadily
-",Unable to get query response,C
+",C,C
 969,Answer this question rapidly,"what is the best possible answer for this question: Which part of the atom has a negative charge?
  (A) neutron
  (B) nucleus
@@ -5868,7 +5868,7 @@ A",D
  (B) something else
  (C) consumers
  (D) producers
-",Unable to get query response,C
+",C,C
 978,Answer this question rapidly,"what is the best possible answer for this question: Viruses are killed by objects used in a
  (A) backyard
  (B) bathroom

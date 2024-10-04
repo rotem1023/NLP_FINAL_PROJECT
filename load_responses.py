@@ -3,6 +3,8 @@ import pandas as pd
 from load_data import TaskName
 import re
 
+i = 0
+
 class PromptLevel:
     def __init__(self, level, first_version_data, second_version_data, third_version_data):
         self.level = level
@@ -19,6 +21,21 @@ class PromptLevel:
             return self.third_version_data
         raise RuntimeError("Error: incorrect version number. Possible version numbers are: 1,2,3")
 
+    def __iter__(self):
+        self._index = 0
+        return self
+
+    def __next__(self):
+        self._index +=1
+        if self._index == 1:
+            return self.first_version_data
+        elif self._index ==2:
+            return self.second_version_data
+        elif self._index ==3:
+            return self.third_version_data
+        else:
+            raise StopIteration
+
 class TaskData:
 
     def __init__(self, task_name, first_level, second_level, third_level, fourth_level, fifth_level):
@@ -33,12 +50,25 @@ class TaskData:
         return level_data.get_data_version(version)
 
 
+    def __iter__(self):
+        self._index = 0
+        return self
+
+    def __next__(self):
+        if self._index >= len(self.levels_data):
+            raise StopIteration
+        data = self.levels_data[self._index]
+        self._index +=1
+        return data
+
 class ResponsesData:
 
-    def __init__(self, mmlu_task_data, predict_next_word_data, sentiment_analysis_data):
+    def __init__(self, mmlu_task_data, predict_next_word_data, sentiment_analysis_data, next_word_from_text, generated_text):
         self.mmlu_task_data = mmlu_task_data
         self.predict_next_word_data = predict_next_word_data
         self.sentiment_analysis_data = sentiment_analysis_data
+        self.predict_next_word_from_text_data = next_word_from_text
+        self.predict_next_word_generated_text = generated_text
 
     def get_task_data(self, task_name):
         if task_name == TaskName.MMLU:
@@ -47,7 +77,32 @@ class ResponsesData:
             return self.sentiment_analysis_data
         if task_name == TaskName.next_word:
             return self.predict_next_word_data
+        if task_name == TaskName.next_word_text:
+            return self.predict_next_word_from_text_data
+        if task_name == TaskName.generated_text:
+            return self.predict_next_word_generated_text
         raise RuntimeError("Error: invalid task name")
+
+    def __iter__(self):
+        self._index = 0
+        return self
+
+
+
+    def __next__(self):
+        self._index +=1
+        if self._index == 1:
+            return self.mmlu_task_data
+        elif self._index == 2:
+            return self.predict_next_word_data
+        elif self._index == 3:
+            return self.sentiment_analysis_data
+        elif self._index == 4:
+            return self.predict_next_word_from_text_data
+        elif self._index == 5:
+            return self.predict_next_word_generated_text
+        else:
+            raise StopIteration
 
 
 def _get_data_dir():
@@ -65,6 +120,7 @@ def _normalize_word(w):
 
 
 
+
 def _normalize_table(task_name, table):
     table['responses'] = table['responses'].apply(_normalize_word)
     table['expected_responses'] = table['expected_responses'].apply(_normalize_word)
@@ -73,7 +129,7 @@ def _normalize_table(task_name, table):
 
 def _read_task_data(task_name):
     data_dir = _get_data_dir()
-    task_names_dirs= {TaskName.math: "math", TaskName.MMLU: "MMLU", TaskName.sentiment_analysis: "sentiment_analysis", TaskName.next_word: "next_word"}
+    task_names_dirs= {TaskName.math: "math", TaskName.MMLU: "MMLU", TaskName.sentiment_analysis: "sentiment_analysis", TaskName.next_word: "next_word", TaskName.next_word_text : "next_word_from_text", TaskName.generated_text: "generated_text"}
     task_dir = f"{data_dir}/{task_names_dirs[task_name]}"
     prompts_level = _get_all_dirs_in_dir(task_dir)
     prompts_dic = {p: [] for p in prompts_level}
@@ -96,8 +152,7 @@ def read_data():
     mmlu_data = _read_task_data(TaskName.MMLU)
     sentiment_analysis_data = _read_task_data(TaskName.sentiment_analysis)
     next_word_data = _read_task_data(TaskName.next_word)
-    data = ResponsesData(mmlu_data, next_word_data, sentiment_analysis_data)
+    next_word_data_from_text = _read_task_data(TaskName.next_word_text)
+    generated_text = _read_task_data(TaskName.generated_text)
+    data = ResponsesData(mmlu_data, next_word_data, sentiment_analysis_data, next_word_data_from_text, generated_text)
     return data
-
-if __name__ == "__main__":
-    read_data()
